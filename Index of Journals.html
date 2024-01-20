@@ -72,8 +72,23 @@
 <br>
 <span class="customLink toggleBtn">Toggle All Sections</span>
 <br>
-
+<br>
+<br>
 <div id="customJournal">
+    
+    <h3 class="customBySamAltmanHeader"><span class="arrow up"></span> By Sam Altman</h3>
+    <div id="customBySamAltman">
+        <ol>
+            <li>
+                <a href="https://survival8.blogspot.com/2024/01/chapter-1-my-roots.html" target="_blank">
+                    Chapter 1: My Roots
+                </a>
+            </li>
+        </ol>
+    </div>
+    <br>
+    <h2>Factual Details</h2>
+    <br>
     <h3 class="customB2008Header"><span class="arrow up"></span> Before 2008</h3>
     <div id="customB2008">
         <ol>
@@ -142,7 +157,7 @@
 
             <li>
                 <a href="https://survival8.blogspot.com/2023/07/chapter-10-first-proposal.html" target="_blank">
-                    Chapter 10 - First Proposal 
+                    Chapter 10 - First Proposal
                 </a>
             </li>
         </ol>
@@ -3449,19 +3464,21 @@
             </li>
 
             <li>
-                <a href="https://survival8.blogspot.com/2023/06/negotiating-with-massage-therapists-feb.html" target="_blank">
-                    Negotiating with massage therapists (Feb 2023) 
+                <a href="https://survival8.blogspot.com/2023/06/negotiating-with-massage-therapists-feb.html"
+                    target="_blank">
+                    Negotiating with massage therapists (Feb 2023)
                 </a>
             </li>
 
             <li>
                 <a href="https://survival8.blogspot.com/2023/06/who-is-naresh-taneja-and-what-are.html" target="_blank">
-                    Who is Naresh Taneja and What are sticky memories 
+                    Who is Naresh Taneja and What are sticky memories
                 </a>
             </li>
 
             <li>
-                <a href="https://survival8.blogspot.com/2023/06/who-is-swati-tandon-and-what-she-has.html" target="_blank">
+                <a href="https://survival8.blogspot.com/2023/06/who-is-swati-tandon-and-what-she-has.html"
+                    target="_blank">
                     Who is Swati Tandon and what she has got to do with khaki brown and black color (Jun 2023)
                 </a>
             </li>
@@ -3619,6 +3636,11 @@
 </span>
 
 <script>
+    customBySamAltman
+    $('h3.customBySamAltmanHeader').click(function () {
+        $("div#customBySamAltman").fadeToggle();
+        $("h3.customBySamAltmanHeader > .arrow").toggleClass('up').toggleClass('down');
+    });
 
     $('h3.customB2008Header').click(function () {
         $("div#customB2008").fadeToggle();
