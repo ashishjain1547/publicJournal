@@ -75,7 +75,23 @@
 <br>
 <br>
 <div id="customJournal">
-    
+    <h3 class="customMonaKiKahaniHeader"><span class="arrow up"></span> मोना की कहानी</h3>
+    <div id="customMonaKiKahani">
+        <ol>
+            <li>
+                <a href="https://survival8.blogspot.com/2025/01/blog-post.html" target="_blank">मोना की कहानी (अध्याय 1)</a>
+            </li>
+
+            <li>
+                <a href="https://survival8.blogspot.com/2025/01/2.html" target="_blank">मोना की कहानी (अध्याय 2)</a>
+            </li>
+
+            <li>
+                <a href="https://survival8.blogspot.com/2025/01/3.html" target="_blank">मोना की कहानी (अध्याय 3)</a>
+            </li>
+        </ol>
+    </div>
+
     <h3 class="customBySamAltmanHeader"><span class="arrow up"></span> A Narrative</h3>
     <div id="customBySamAltman">
         <ol>
@@ -3671,8 +3687,13 @@
     Intelligence,Investment,Management,
 </span>
 
-<script>
-    customBySamAltman
+<script>    
+    $('h3.customMonaKiKahaniHeader').click(function () {
+        $("div#customMonaKiKahani").fadeToggle();
+        $("h3.customMonaKiKahaniHeader > .arrow").toggleClass('up').toggleClass('down');
+    });
+
+
     $('h3.customBySamAltmanHeader').click(function () {
         $("div#customBySamAltman").fadeToggle();
         $("h3.customBySamAltmanHeader > .arrow").toggleClass('up').toggleClass('down');
