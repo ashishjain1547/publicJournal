@@ -75,8 +75,9 @@
 <br>
 <br>
 <div id="customJournal">
-    <h3 class="customMonaKiKahaniHeader"><span class="arrow up"></span> Mona - A Story</h3>
-    <div id="customMonaKiKahani">
+    <h2>Mona Singh</h2>
+    <h3 class="customMonaAStoryHeader"><span class="arrow up"></span> Mona - A Story</h3>
+    <div id="customMonaAStory">
         <ol>
             <li>
                 <a href="https://survival8.blogspot.com/2025/01/mona-story-chapter-1.html" target="_blank">Mona - A Story (Chapter 1)</a>
@@ -96,6 +97,30 @@
 
             <li>
                 <a href="https://survival8.blogspot.com/2025/01/mona-story-chapter-5.html" target="_blank">Mona - A Story (Chapter 5)</a>
+            </li>
+
+            <li>
+                <a href="https://survival8.blogspot.com/2025/01/mona-story-chapter-6.html" target="_blank">
+                    Mona - A Story (Chapter 6)
+                </a>
+            </li>
+
+            <li>
+                <a href="https://survival8.blogspot.com/2025/01/mona-story-chapter-7.html" target="_blank">
+                    Mona - A Story (Chapter 7)
+                </a>
+            </li>
+
+            <li>
+                <a href="https://survival8.blogspot.com/2025/01/mona-story-chapter-8.html" target="_blank">
+                    Mona - A Story (Chapter 8)
+                </a>
+            </li>
+
+            <li>
+                <a href="https://survival8.blogspot.com/2025/01/mona-story-chapter-9.html" target="_blank">
+                    Mona - A Story (Chapter 9)
+                </a>
             </li>
         </ol>
     </div>
@@ -123,9 +148,30 @@
             <li>
                 <a href="https://survival8.blogspot.com/2025/01/5.html" target="_blank">मोना की कहानी (अध्याय 5)</a>
             </li>
+
+            <li>
+                <a href="https://survival8.blogspot.com/2025/01/6.html" target="_blank">मोना की कहानी (अध्याय 6)</a>
+            </li>
+
+            <li>
+                <a href="https://survival8.blogspot.com/2025/01/7.html" target="_blank">मोना की कहानी (अध्याय 7)</a>
+            </li>
+
+            <li>
+                <a href="https://survival8.blogspot.com/2025/01/8.html" target="_blank">
+                    मोना की कहानी (अध्याय 8)
+                </a>
+            </li>
+
+            <li>
+                <a href="https://survival8.blogspot.com/2025/01/9.html" target="_blank">
+                    मोना की कहानी (अध्याय 9)
+                </a>
+            </li>
         </ol>
     </div>
 
+    <h2>Ashish Jain</h2>
     <h3 class="customBySamAltmanHeader"><span class="arrow up"></span> A Narrative</h3>
     <div id="customBySamAltman">
         <ol>
@@ -3721,7 +3767,13 @@
     Intelligence,Investment,Management,
 </span>
 
-<script>    
+<script>  
+
+    $('h3.customMonaAStoryHeader').click(function () {
+        $("div#customMonaAStory").fadeToggle();
+        $("h3.customMonaAStoryHeader > .arrow").toggleClass('up').toggleClass('down');
+    });
+
     $('h3.customMonaKiKahaniHeader').click(function () {
         $("div#customMonaKiKahani").fadeToggle();
         $("h3.customMonaKiKahaniHeader > .arrow").toggleClass('up').toggleClass('down');
