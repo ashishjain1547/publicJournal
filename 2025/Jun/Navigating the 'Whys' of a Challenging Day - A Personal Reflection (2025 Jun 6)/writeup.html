@@ -1,0 +1,182 @@
+<head>
+    <script crossorigin="anonymous" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+
+    <!-- Google AdSense Using Machine Learning Code -->
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-3071098372371409",
+            enable_page_level_ads: true
+        });
+    </script>
+
+    <script>
+        $(document).ready(function () {
+            $.ajax({
+                url: "https://raw.githubusercontent.com/ashishjain1547/bookSummariesAndReviews/main/links_to_book_clubs.json",
+                success: function (result) {
+                    let grouplink = JSON.parse(result)['current book club'];
+                    $("#customWhatsAppGroupLinkWrapper").html(
+                        `
+                        <h2 class="custom_link_h2"><a href="${grouplink}" target="_blank"> 
+                            <span>Join us on:</span>
+                            <span class="customLink"><i class="fa fa-whatsapp"></i> Whatsapp </span>
+                            </a>
+                        </h2>
+                        `
+                    );
+                }
+            });
+        });
+    </script>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <style>
+        pre {
+            white-space: pre-wrap;
+            white-space: -moz-pre-wrap;
+            white-space: -pre-wrap;
+            white-space: -o-pre-wrap;
+            word-wrap: break-word;
+        }
+
+        .customLink {
+            background-color: #4CAF50;
+            border: none;
+            color: white !important;
+            padding: 8px 13px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 14px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+
+        .customLink:hover {
+            text-decoration: none;
+        }
+
+        div.code-block-decoration.footer {
+            display: none;
+        }
+
+        button.export-sheets-button-wrapper {
+            display: none;
+        }
+    </style>
+
+    <style>
+        .custom_link_h2 a {
+            color: black;
+            text-decoration: none;
+            text-align: center;
+        }
+
+        .custom_link_h2 a:hover {
+            color: black;
+        }
+
+        .custom_link_h2 a:active {
+            color: black;
+        }
+
+        .custom_link_h2 span {
+            translate: 0px -5px;
+            display: inline-block;
+        }
+
+        .custom_link_h2 img {
+            width: 100px;
+            padding: 0px;
+            border: none;
+            box-shadow: none;
+        }
+
+        .customul {
+            list-style: none;
+        }
+
+        [aria-hidden='true'] {
+            display: none;
+        }
+    </style>
+
+    <style>
+        pre {
+            white-space: pre-wrap;
+            white-space: -moz-pre-wrap;
+            white-space: -pre-wrap;
+            white-space: -o-pre-wrap;
+            word-wrap: break-word;
+        }
+
+        .dot {
+            height: 12px;
+            width: 12px;
+            background-color: #bbb;
+            border-radius: 50%;
+            display: inline-block;
+        }
+
+        .arrow {
+            border: solid black;
+            border-width: 0 3px 3px 0;
+            display: inline-block;
+            padding: 3px;
+        }
+
+        .right {
+            transform: rotate(-45deg);
+            -webkit-transform: rotate(-45deg);
+        }
+
+        .left {
+            transform: rotate(135deg);
+            -webkit-transform: rotate(135deg);
+        }
+
+        .up {
+            transform: rotate(-135deg);
+            -webkit-transform: rotate(-135deg);
+        }
+
+        .down {
+            transform: rotate(45deg);
+            -webkit-transform: rotate(45deg);
+        }
+
+        .custom_iframe {
+            width: 100%;
+            height: 305px;
+        }
+    </style>
+</head>
+<div id="customWhatsAppGroupLinkWrapper"></div>
+<br>
+<a class="customLink" href="https://survival8.blogspot.com/2021/02/index-of-journals.html" target="_blank">Other Journaling Days</a>
+<br>
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUeiGJbl4aqK0pCm0iX8QWsAIgvnE6AvX0zYYEiyEHaJpwJtyqts6aciHgMvS8jk3Nu9wdfHQAdU9uUJcLGI3D5MEzlQq2krdaDaQCazKV4c6HNHRZgf1VBNGBDmlGtkwRv7uSQE85sQZwJmx4dzN0KFpO6o6y4SkJ8KmkgLdazP6O6G2uoARxpHFc0nLK/s750/blog_cover.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" height="600" data-original-height="750" data-original-width="500" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUeiGJbl4aqK0pCm0iX8QWsAIgvnE6AvX0zYYEiyEHaJpwJtyqts6aciHgMvS8jk3Nu9wdfHQAdU9uUJcLGI3D5MEzlQq2krdaDaQCazKV4c6HNHRZgf1VBNGBDmlGtkwRv7uSQE85sQZwJmx4dzN0KFpO6o6y4SkJ8KmkgLdazP6O6G2uoARxpHFc0nLK/s600/blog_cover.png"/></a></div>
+
+<pre>
+Life often presents us with moments that compel us to pause, reflect, and question. Sometimes, these moments arrive unannounced, wrapped in the guise of a difficult conversation or an unexpected setback. In such times, the structured approach of techniques like the '5 Whys' – typically reserved for root cause analysis in business – can offer a surprising lens through which to examine our personal habits and reactions. This is a journey into one such day, a day that prompted a deep dive into the 'whys' of my own experiences, both professional and personal.
+
+The evening began with a call from Shridhar, delivering news that cast a shadow over the day. Shiben, a colleague, was apparently displeased, even going so far as to inquire about a potential replacement for me on the DAP project. Shridhar, with a tone of concern, highlighted the precarious position of being off-boarded from two projects consecutively, emphasizing the negative impression it could leave on management.
+
+His feedback, though difficult to hear, was direct and insightful. Shridhar observed a recurring issue in my work: the timely communication of status, progress, challenges, and impediments. "Just let the stakeholders know where we are," he advised, a simple yet profound piece of counsel that resonated deeply. This conversation underscored the critical importance of proactive communication in professional settings, a lesson I was now confronting firsthand.
+
+The uncertainty surrounding my involvement in DAP lingered. I pressed Shridhar for clarity: "Was Shiben certain to not keep me?" His response offered a glimmer of hope – I could still be part of DAP, as he had yet to find a replacement. Simultaneously, another project, NEA, was struggling, progressing at a snail's pace due to delays in relaying requests to AIP Support. The confluence of these professional challenges left me in a state of introspection, unsure how to navigate the immediate future.
+
+In the wake of these professional revelations, a different kind of introspection began. It was 9:09 PM, and the world outside seemed to quiet as I sought solace in familiar routines. The gentle strains of Tibetan flute meditation music filled the air, a calming balm to a turbulent mind. My focus shifted to programming puzzles from HackerEarth, a pursuit that allows me to engage with logic and problem-solving, areas where I feel a sense of competence and control. This was my way of re-centering, of focusing on "what I do best, or what I am good at, or what I want to excel at."
+
+Even as I delved into these personal pursuits, the outside world gently nudged. Harshita's WhatsApp message, "How is my day going?" and her mother Nisha Mehta's earlier call, both went unanswered. In that moment, I needed the space to sort through the complexities in my head, to process the day's events without immediate external demands. My eventual response to Harshita, "I was not keeping well," was an honest reflection of my internal state, prompting her verbatim follow-up: "Why?" This simple question, echoing the very technique I was attempting to apply to my habits, served as a poignant reminder of the interconnectedness of our professional and personal lives.
+
+On days like these, rough, hard, and tiring, the thought often arises: is 400 words too much to write? The intention behind these reflections is not merely to vent, but to extract meaning, to distill lessons from the chaos. Even on a bad day, if the essence of the news can be conveyed in 300 words, why not? The goal is to be concise, impactful, and purposeful. And so, with that resolve, I decided to call it a post and carry on with the night, finding a quiet strength in the act of creation and reflection.
+
+This day, with its professional challenges and personal reflections, served as a powerful reminder of the continuous journey of self-improvement. The feedback, though initially unsettling, became an opportunity for growth. The retreat into personal passions provided a much-needed anchor. And the act of writing, of distilling complex emotions and events into meaningful words, became a form of therapy and clarity. By applying the spirit of the '5 Whys' not just to external problems but to internal states, we can uncover deeper understandings of our habits, our reactions, and our path forward. God bless!
+
+
+</pre>
