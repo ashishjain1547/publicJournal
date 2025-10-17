@@ -1,0 +1,95 @@
+<head>
+    <script crossorigin="anonymous" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/personal-posts-menu.html",
+                success: function (result) {
+                    $("div.customTemporaryCodeHolder").html(result);
+                    $("nav.customDynamicNav").html(
+                        $("div.customTemporaryCodeHolder nav.customBitsWilpMenu").html()
+                    );
+                }
+            });
+
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/follow-us-on-social-media.html",
+
+                success: function (result) {
+                    $("span.customTempCodeHolderForSocialMedia").html(result);
+                    $("div.customSocialMediaBtnsWrapper").html(
+                        $("span.customTempCodeHolderForSocialMedia div.customSocialMediaWrapper").html()
+                    );
+                }
+
+            });
+        }); 
+    </script>
+    <!-- Google AdSense Using Machine Learning Code -->
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-3071098372371409",
+            enable_page_level_ads: true
+        });
+    </script>
+
+    <style>
+        .customTempCodeHolderForSocialMedia {
+            display: none;
+        }
+
+        pre {
+            white-space: pre-wrap;
+            white-space: -moz-pre-wrap;
+            white-space: -pre-wrap;
+            white-space: -o-pre-wrap;
+            word-wrap: break-word;
+        }
+
+        .customOl {
+            font-size: 15px;
+        }
+
+        .customPre {
+            white-space: pre-wrap; 
+        }
+
+        .customLink {
+            background-color: #4CAF50;
+            border: none;
+            color: white !important;
+            padding: 8px 13px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 14px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+
+        .customLink:hover {
+            text-decoration: none;
+        }
+
+        .custom_5px_0px_padding_noMargin {
+            padding: 5px 0px;
+            margin: 0px;
+        }
+    
+    </style>
+</head>
+<div class="customTemporaryCodeHolder"> </div>
+<span class="customTempCodeHolderForSocialMedia"> </span>
+
+<nav class="customDynamicNav"> </nav> <br />
+<div class="customSocialMediaBtnsWrapper"> </div> <br />
+<!-- End of 'Personal Posts Menu Template For Copy-Paste'. It started from the top of the page from <HEAD> tag. -->
+<a href="https://survival8.blogspot.com/2021/02/index-of-journals.html" class="customLink">Index of Journals</a>
+
+<pre class="">March 1, 2011
+
+I screwed 'Algorithms Analysis and Design' (ADA) test up. I did not have any idea of it. However, it just happened. I had to study whole night. I just laid for a second to taka a little rest; I was not supposed to do that. I just slipped, and slept until five am. That when I was semi-conscious at 0330. I had to finish the syllabus for the exam but by morning, I chose to miss three important topics. The topics of which I had attended the lectures, yes, I cannot do without self-study. The fact is that I cannot even benefit from attending classes. It is total bullshit. However, the fact is that the paper had less to do with those topics. Yeah, a little but not that much though because the paper had plenty of questions from the topic ‘Recurrence’, the one on which I had been spending whole lot of time ever since buying the subject book. I need to do something about this, something about myself. I do make great plans but the problem is that I do not leave room for errors, without making which I cannot live. 
+I was having this thought in the bus before sleeping again. I did not realize that I had reached Noida, Sector 15. Well, because I had DTC pass I travelled back free of cost. 
+I reached home and Manju buaji was there. She called me and handed an Axe Deodorant bottle. I said thanks and tried to open the cap. The cap was not for opening, but I pulled it out. What next, I looked for the spray nozzle that was not there. Ah, I am having a bad day today. Though I fixed the cap once but when I tried opening it up again, it broke. I am now going to use with the nozzle that is now on the bottle, and the cap, I have thrown it away. Huh, I do not know how to feel about it. </pre>

@@ -1,0 +1,117 @@
+<head>
+    <script crossorigin="anonymous" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/personal-posts-menu.html",
+                success: function (result) {
+                    $("div.customTemporaryCodeHolder").html(result);
+                    $("nav.customDynamicNav").html(
+                        $("div.customTemporaryCodeHolder nav.customBitsWilpMenu").html()
+                    );
+                }
+            });
+
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/follow-us-on-social-media.html",
+
+                success: function (result) {
+                    $("span.customTempCodeHolderForSocialMedia").html(result);
+                    $("div.customSocialMediaBtnsWrapper").html(
+                        $("span.customTempCodeHolderForSocialMedia div.customSocialMediaWrapper").html()
+                    );
+                }
+
+            });
+        }); 
+    </script>
+    <!-- Google AdSense Using Machine Learning Code -->
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-3071098372371409",
+            enable_page_level_ads: true
+        });
+    </script>
+
+    <style>
+        .customTempCodeHolderForSocialMedia {
+            display: none;
+        }
+
+        pre {
+            white-space: pre-wrap;
+            white-space: -moz-pre-wrap;
+            white-space: -pre-wrap;
+            white-space: -o-pre-wrap;
+            word-wrap: break-word;
+        }
+
+        .customOl {
+            font-size: 15px;
+        }
+
+        .customPre {
+            white-space: pre-wrap; 
+        }
+
+        .customLink {
+            background-color: #4CAF50;
+            border: none;
+            color: white !important;
+            padding: 8px 13px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 14px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+
+        .customLink:hover {
+            text-decoration: none;
+        }
+
+        .custom_5px_0px_padding_noMargin {
+            padding: 5px 0px;
+            margin: 0px;
+        }
+    
+    </style>
+</head>
+<div class="customTemporaryCodeHolder"> </div>
+<span class="customTempCodeHolderForSocialMedia"> </span>
+
+<nav class="customDynamicNav"> </nav> <br />
+<div class="customSocialMediaBtnsWrapper"> </div> <br />
+<!-- End of 'Personal Posts Menu Template For Copy-Paste'. It started from the top of the page from <HEAD> tag. -->
+<a href="https://survival8.blogspot.com/2021/02/index-of-journals.html" class="customLink">Index of Journals</a>
+
+<pre class="">15th October 2009, Thursday
+
+Don't know from where to start but the ending is clear with me groaning in pain alone.
+
+I lost my mobile phone to three thugs around 9PM today. I had never used the phone with it being completely mine. And today when I spent money for memory card and had put Anu's SIM in it, I finally lost it forever.
+
+<b class="">The robbery goes like this:</b>
+
+Those three of them called me from a distance when I had walked a few steps past them outside the gates of public park next to Maitri Apartments. After several calls, I tried being ignorant of any danger and went to them. The smallest one of them tried to fool me by saying that he knew me and I had hit him with two of my other friends in the Mayur Vihar, Pocket-I some days ago. Then the oldest one asked me the time and in the process snatched the phone away from my hand when I took it out from my pocket. Then they started to make me move in the dark place between 'Gobar Park' and there they beat me and I let them go like cowards.
+
+They weren't alone two other men were waiting for me on the other end of the park (the exit next to Sahyog Apartments) and they tried to show sympathy and tried to know what happened with me or if I was in some problem. I didn't tell them anything and spoke in English to back off on my way to police.
+
+And they even later lied to police when I came back to them with a police man with me.
+
+He just told me that the time that I wasted in trying to call police,helped them in running away.
+
+And it was all my fault.
+
+He suggested me to go to the police station. There at the police station I just filed a complaint as I told him and said that in my case mobile recovery is probably going to be more difficult as I know neither the mobile number on finger tips nor I've got any source left to know my IMEI number.
+
+I am just over now.
+
+Ashishjain 
+McColossus
+God Bless 'Me'
+
+<b class="">PS (27 April, 2021): The police had never taken down any written account of my complaint and I was not aware on that day of what it means to 'file an FIR'.</b></pre>

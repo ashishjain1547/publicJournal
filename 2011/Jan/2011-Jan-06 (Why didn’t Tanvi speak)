@@ -1,0 +1,104 @@
+<head>
+    <script crossorigin="anonymous" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/personal-posts-menu.html",
+                success: function (result) {
+                    $("div.customTemporaryCodeHolder").html(result);
+                    $("nav.customDynamicNav").html(
+                        $("div.customTemporaryCodeHolder nav.customBitsWilpMenu").html()
+                    );
+                }
+            });
+
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/follow-us-on-social-media.html",
+
+                success: function (result) {
+                    $("span.customTempCodeHolderForSocialMedia").html(result);
+                    $("div.customSocialMediaBtnsWrapper").html(
+                        $("span.customTempCodeHolderForSocialMedia div.customSocialMediaWrapper").html()
+                    );
+                }
+
+            });
+        }); 
+    </script>
+    <!-- Google AdSense Using Machine Learning Code -->
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-3071098372371409",
+            enable_page_level_ads: true
+        });
+    </script>
+
+    <style>
+        .customTempCodeHolderForSocialMedia {
+            display: none;
+        }
+
+        pre {
+            white-space: pre-wrap;
+            white-space: -moz-pre-wrap;
+            white-space: -pre-wrap;
+            white-space: -o-pre-wrap;
+            word-wrap: break-word;
+        }
+
+        .customOl {
+            font-size: 15px;
+        }
+
+        .customPre {
+            white-space: pre-wrap; 
+        }
+
+        .customLink {
+            background-color: #4CAF50;
+            border: none;
+            color: white !important;
+            padding: 8px 13px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 14px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+
+        .customLink:hover {
+            text-decoration: none;
+        }
+
+        .custom_5px_0px_padding_noMargin {
+            padding: 5px 0px;
+            margin: 0px;
+        }
+    
+    </style>
+</head>
+<div class="customTemporaryCodeHolder"> </div>
+<span class="customTempCodeHolderForSocialMedia"> </span>
+
+<nav class="customDynamicNav"> </nav> <br />
+<div class="customSocialMediaBtnsWrapper"> </div> <br />
+<!-- End of 'Personal Posts Menu Template For Copy-Paste'. It started from the top of the page from <HEAD> tag. -->
+<a href="https://survival8.blogspot.com/2021/02/index-of-journals.html" class="customLink">Index of Journals</a>
+
+<pre class="">6 January 2011
+
+There was too much sleeping around today. I’m in deep trouble now. But by waking up whole night, I think I will make it so I’m still rolling slowly.
+
+I was traveling in women’s car yesterday while travelling between Kashmere Gate and Rithala. Actually, a woman had offered me to sit when I had pointed at the empty seat on the Kashmere Gate station. I didn’t realize that there were TRIG women watching me later. They were there from pretty much time but I realized it when one of the three made a loud comment on the one who stepped out on Rohini. They could have taken action against me but they didn’t. That was brave, I felt for myself. Because, on other day women beat a man who had climbed the women’s car. They beat him real hard. It was on the news. 
+
+And at the time of returning from Rithala to Kashmere Gate, I was accompanied by Tanvi Gaur but we didn’t speak a word during the hour long journey. That was awkward to notice. But I needed to use restroom so I thought instead of acting weird while speaking it’d be better to stay quiet. I had been holding myself since very long time, right from the college gates. Okay, I was awkward inside but not on the outside. Why didn’t Tanvi speak?
+
+I had always dreamt of being one-in-every-fifty, but I never realized that Naveen was one-in-every-two-hundred. And every time I think of doing great to be one-in-fifty I used to take inspiration from him, but today I realize (after two years) that I can never be him. Being One-in-Two-Hundred is surely a god gift. Wish I could be that lucky.
+
+I better go now, I have whole syllabus to do.
+
+God Bless ‘Me’
+Ashish</pre>

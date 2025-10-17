@@ -1,0 +1,110 @@
+<head>
+    <script crossorigin="anonymous" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/personal-posts-menu.html",
+                success: function (result) {
+                    $("div.customTemporaryCodeHolder").html(result);
+                    $("nav.customDynamicNav").html(
+                        $("div.customTemporaryCodeHolder nav.customBitsWilpMenu").html()
+                    );
+                }
+            });
+
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/follow-us-on-social-media.html",
+
+                success: function (result) {
+                    $("span.customTempCodeHolderForSocialMedia").html(result);
+                    $("div.customSocialMediaBtnsWrapper").html(
+                        $("span.customTempCodeHolderForSocialMedia div.customSocialMediaWrapper").html()
+                    );
+                }
+
+            });
+        }); 
+    </script>
+    <!-- Google AdSense Using Machine Learning Code -->
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-3071098372371409",
+            enable_page_level_ads: true
+        });
+    </script>
+
+    <style>
+        .customTempCodeHolderForSocialMedia {
+            display: none;
+        }
+
+        pre {
+            white-space: pre-wrap;
+            white-space: -moz-pre-wrap;
+            white-space: -pre-wrap;
+            white-space: -o-pre-wrap;
+            word-wrap: break-word;
+        }
+
+        .customOl {
+            font-size: 15px;
+        }
+
+        .customPre {
+            white-space: pre-wrap; 
+        }
+
+        .customLink {
+            background-color: #4CAF50;
+            border: none;
+            color: white !important;
+            padding: 8px 13px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 14px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+
+        .customLink:hover {
+            text-decoration: none;
+        }
+
+        .custom_5px_0px_padding_noMargin {
+            padding: 5px 0px;
+            margin: 0px;
+        }
+    
+    </style>
+</head>
+<div class="customTemporaryCodeHolder"> </div>
+<span class="customTempCodeHolderForSocialMedia"> </span>
+
+<nav class="customDynamicNav"> </nav> <br />
+<div class="customSocialMediaBtnsWrapper"> </div> <br />
+<!-- End of 'Personal Posts Menu Template For Copy-Paste'. It started from the top of the page from <HEAD> tag. -->
+<a href="https://survival8.blogspot.com/2021/02/index-of-journals.html" class="customLink">Index of Journals</a>
+
+<pre class="">3 January 2011
+
+Last night I went to bed early. I just couldn’t study yesterday. I never got to make up the mood. It was really sad to know that later. But then miraculously I woke in the middle of the night around 0130 and I thanked god several times for bringing me luck. I studied and I had just started studying. I studied according the requirement of the question paper, went strategically to cover the minimum amount of chapters to pass. 
+Around 0500 Prashant’s phone started ringing and I had to push it off but he then noticed it in his sleep, so was awaken right after. 
+
+I went to college before time as always and went to an isolated place to study. 
+
+Exam went fine, I guess. I don’t know man, if I would get marks for attempting questions I’d surely pass, rest is in examiner’s hand.
+I didn’t give Vibha a look, nor did she let me do that at any moment. Plus, I don’t have to. Because with hi-hello with Astha it’s clear I have a pass for their group.
+
+It feels really cold while writing the exam. I never get to cheat. It is really, really sad. Behind me sits Parul and on the front sits Nitish, none of them ever seem willing to even hear to any call, let alone cheating! And for themselves Parul, Sonam (who is sitting behind her) and Srishti (who is sitting on the left of Sonam) would always be discussing questions in which they are doubtful.
+Abhilash and Roshan would get scolded, but Kriti has always been cheating and has always been safe.
+
+I came home and slept. It was around 1930 that I woke up. 
+My god, my knee is causing pain when I bend it to sit specifically. It’s crazy; I never got into trouble as far as I remember. 
+
+I met Hardik today while returning from Metro station in the afternoon. It felt nice to see him. I never wanted to see him though, and that will never change. 
+
+God Bless ‘Me’
+Ashish</pre>

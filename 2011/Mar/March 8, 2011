@@ -1,0 +1,109 @@
+<head>
+    <script crossorigin="anonymous" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/personal-posts-menu.html",
+                success: function (result) {
+                    $("div.customTemporaryCodeHolder").html(result);
+                    $("nav.customDynamicNav").html(
+                        $("div.customTemporaryCodeHolder nav.customBitsWilpMenu").html()
+                    );
+                }
+            });
+
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/follow-us-on-social-media.html",
+
+                success: function (result) {
+                    $("span.customTempCodeHolderForSocialMedia").html(result);
+                    $("div.customSocialMediaBtnsWrapper").html(
+                        $("span.customTempCodeHolderForSocialMedia div.customSocialMediaWrapper").html()
+                    );
+                }
+
+            });
+        }); 
+    </script>
+    <!-- Google AdSense Using Machine Learning Code -->
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-3071098372371409",
+            enable_page_level_ads: true
+        });
+    </script>
+
+    <style>
+        .customTempCodeHolderForSocialMedia {
+            display: none;
+        }
+
+        pre {
+            white-space: pre-wrap;
+            white-space: -moz-pre-wrap;
+            white-space: -pre-wrap;
+            white-space: -o-pre-wrap;
+            word-wrap: break-word;
+        }
+
+        .customOl {
+            font-size: 15px;
+        }
+
+        .customPre {
+            white-space: pre-wrap; 
+        }
+
+        .customLink {
+            background-color: #4CAF50;
+            border: none;
+            color: white !important;
+            padding: 8px 13px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 14px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+
+        .customLink:hover {
+            text-decoration: none;
+        }
+
+        .custom_5px_0px_padding_noMargin {
+            padding: 5px 0px;
+            margin: 0px;
+        }
+    
+    </style>
+</head>
+<div class="customTemporaryCodeHolder"> </div>
+<span class="customTempCodeHolderForSocialMedia"> </span>
+
+<nav class="customDynamicNav"> </nav> <br />
+<div class="customSocialMediaBtnsWrapper"> </div> <br />
+<!-- End of 'Personal Posts Menu Template For Copy-Paste'. It started from the top of the page from <HEAD> tag. -->
+<a href="https://survival8.blogspot.com/2021/02/index-of-journals.html" class="customLink">Index of Journals</a>
+
+<pre class="">March 8, 2011
+
+I was watching a movie last night and was sleeping whole day long after coming back from college yesterday.
+Yesterday, I asked babaji of Tri Nagar and he said okay. I wanted to assure myself of his word so I asked him for the keys, and amma then woke up to give nonsense reasons against me. She asked, "What am I going to eat there? Who will cook?" What kind of question was that? I will eat what I will cook. Then, discussion postponed to the time when it will be time for me to realize the plan. That time is three months away when I will be in third year.
+
+In the morning, babaji referred to me about someone who could help me in my studies. I told him to instead buy me a laptop, and send me to Tri Nagar. He asked about hostel facility at college (which is unfortunately not there) and then asked for possible price of a laptop. I told him 15K because I have 5K and notebook computers are coming for 20K these days. He said okay to that. I called Ankur to ask him about this and help me with the available choices of a laptop that I have. 
+
+There was police-bike near the bus stop. They were fucking watching me. I felt more confident when they moved as the bus came. Then, in the bus I was being looked over by some man near the front door, what the fuck was that?
+'Algorithms Analysis and Design' (ADA) class happened; sir helped us with question paper. I bunked 'Computer Graphics' (CG) practical to go to Net lab. After that, there was no class. Students went for mass-bunk. I stayed in the class for some time and Neeru ma’am came in her period. I was studying 'Software Engineering' (SE). Then, next was CS period and teacher came up to check the class, I was awake the first time but asleep on the next. After Tarang Mahajan of other section came to help teacher to get my attention I went home after this. 
+
+Swarnlata ma’am left, Preeti Varma Dhaka is in. The class was unhappy with this, and especially me. 
+
+At home, Manju buaji ask me of my results and remind me of the criteria of obtaining fee-concession. She told me of cutting short sleep, but then looking into my eyes told me to catch back bed.
+
+Okay, so this laptop charger wire is loose again, can go off anytime. 
+Sameer joined Facebook, and I just sent ‘what’s up’ to Smita, no reply. 
+
+God Bless Me
+Ashish </pre>

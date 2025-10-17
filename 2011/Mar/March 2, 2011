@@ -1,0 +1,100 @@
+<head>
+    <script crossorigin="anonymous" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/personal-posts-menu.html",
+                success: function (result) {
+                    $("div.customTemporaryCodeHolder").html(result);
+                    $("nav.customDynamicNav").html(
+                        $("div.customTemporaryCodeHolder nav.customBitsWilpMenu").html()
+                    );
+                }
+            });
+
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/follow-us-on-social-media.html",
+
+                success: function (result) {
+                    $("span.customTempCodeHolderForSocialMedia").html(result);
+                    $("div.customSocialMediaBtnsWrapper").html(
+                        $("span.customTempCodeHolderForSocialMedia div.customSocialMediaWrapper").html()
+                    );
+                }
+
+            });
+        }); 
+    </script>
+    <!-- Google AdSense Using Machine Learning Code -->
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-3071098372371409",
+            enable_page_level_ads: true
+        });
+    </script>
+
+    <style>
+        .customTempCodeHolderForSocialMedia {
+            display: none;
+        }
+
+        pre {
+            white-space: pre-wrap;
+            white-space: -moz-pre-wrap;
+            white-space: -pre-wrap;
+            white-space: -o-pre-wrap;
+            word-wrap: break-word;
+        }
+
+        .customOl {
+            font-size: 15px;
+        }
+
+        .customPre {
+            white-space: pre-wrap; 
+        }
+
+        .customLink {
+            background-color: #4CAF50;
+            border: none;
+            color: white !important;
+            padding: 8px 13px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 14px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+
+        .customLink:hover {
+            text-decoration: none;
+        }
+
+        .custom_5px_0px_padding_noMargin {
+            padding: 5px 0px;
+            margin: 0px;
+        }
+    
+    </style>
+</head>
+<div class="customTemporaryCodeHolder"> </div>
+<span class="customTempCodeHolderForSocialMedia"> </span>
+
+<nav class="customDynamicNav"> </nav> <br />
+<div class="customSocialMediaBtnsWrapper"> </div> <br />
+<!-- End of 'Personal Posts Menu Template For Copy-Paste'. It started from the top of the page from <HEAD> tag. -->
+<a href="https://survival8.blogspot.com/2021/02/index-of-journals.html" class="customLink">Index of Journals</a>
+
+<pre class="">March 2, 2011
+
+Uncle came back today. I had no intentions of saying ‘hi’ or ‘hello’ but when I was with Srishti to give her some CDs he came out of room to make faces, that’s his way of saying ‘hello’. I was in the room when I thought, may be I should go and ask him to install MS Office 2010. Grandpa was sitting there. Uncle and grandpa in the same place, everyone knows what the scene must be. Grandpa started in heavy rustic tone to ask me about results, seeing that uncle was sitting there. I was very upset by this, but I could not have said anything unfortunately. When grandpa had asked if I welcomed the uncle, I told him straight ‘yes’, and that was on uncle’s face. Uncle had his eyes closed when I had turned my face for a second. I had come in a very positive mood and I was even about to ask but grandpa came in between to ruin the things up. I was feeling very pissed by now, I decided not to ask and even uncle had understood that I had come to ask for something. He got up even before me. I got up next with the laptop to come to my room again.
+
+People sometimes talk in sleep. It happens because they actually dwell in the dream, in the scene that goes in their heads. I saw Prashant talking so just thought of the similar habit if mine. I mean, I have many times got into trouble because of this, talking to myself even when no one is around. People look at you with pale face as if you are cannibal or something. On the other day, a man, who was a real psycho, came, and sat next to me. He moved his fingers after particular instants of time, and moved his neck as if asking something, or pointing at something in front. That scared me for a second; it got the breath out of me. However, then I realized that it was not a big deal to over react. I should not act awkward, making him feel uncomfortable, but the way he was moving his neck in-and-out very close to my face, I had to given him attention. 
+
+I just talked to the Bengali teacher (Electrical Science teacher) for the first time yesterday. After the exam, I ran to her to ask a little about internal marking process, but she told me that the date of internal exam is on Monday. Later, Apurv, Gaurav Gupta, and I were standing in the open when Isha Baliyan just passed. I turned around to see, and hell, Anshu ma’am was approaching from that direction. She was in casuals and she looked nicer.
+
+God Bless Me
+Ashish</pre>

@@ -1,0 +1,106 @@
+<head>
+    <script crossorigin="anonymous" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/personal-posts-menu.html",
+                success: function (result) {
+                    $("div.customTemporaryCodeHolder").html(result);
+                    $("nav.customDynamicNav").html(
+                        $("div.customTemporaryCodeHolder nav.customBitsWilpMenu").html()
+                    );
+                }
+            });
+
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/follow-us-on-social-media.html",
+
+                success: function (result) {
+                    $("span.customTempCodeHolderForSocialMedia").html(result);
+                    $("div.customSocialMediaBtnsWrapper").html(
+                        $("span.customTempCodeHolderForSocialMedia div.customSocialMediaWrapper").html()
+                    );
+                }
+
+            });
+        }); 
+    </script>
+    <!-- Google AdSense Using Machine Learning Code -->
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-3071098372371409",
+            enable_page_level_ads: true
+        });
+    </script>
+
+    <style>
+        .customTempCodeHolderForSocialMedia {
+            display: none;
+        }
+
+        pre {
+            white-space: pre-wrap;
+            white-space: -moz-pre-wrap;
+            white-space: -pre-wrap;
+            white-space: -o-pre-wrap;
+            word-wrap: break-word;
+        }
+
+        .customOl {
+            font-size: 15px;
+        }
+
+        .customPre {
+            white-space: pre-wrap; 
+        }
+
+        .customLink {
+            background-color: #4CAF50;
+            border: none;
+            color: white !important;
+            padding: 8px 13px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 14px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+
+        .customLink:hover {
+            text-decoration: none;
+        }
+
+        .custom_5px_0px_padding_noMargin {
+            padding: 5px 0px;
+            margin: 0px;
+        }
+    
+    </style>
+</head>
+<div class="customTemporaryCodeHolder"> </div>
+<span class="customTempCodeHolderForSocialMedia"> </span>
+
+<nav class="customDynamicNav"> </nav> <br />
+<div class="customSocialMediaBtnsWrapper"> </div> <br />
+<!-- End of 'Personal Posts Menu Template For Copy-Paste'. It started from the top of the page from <HEAD> tag. -->
+<a href="https://survival8.blogspot.com/2021/02/index-of-journals.html" class="customLink">Index of Journals</a>
+
+<pre class="">March 20, 2011 
+
+“Happy Holi”
+
+I was awake until quarter-to-four last night and so had to wake up late. Anu had come to wish early and had put a little color near temple. When I woke up, I brushed my teeth and became fresh. Soon, aunt came to put color all over me; she colored my front jaws and teeth. I washed that and waited for things to settle so that I can go back to work. I had breakfast to pass time. I could not have taken Net book out at this time; I worked on laptop when Harshit’s call came. He was coming down. When he came on my balcony, I went to oil myself and Holi began. 
+
+Not much happened, Harshit, Kunal, and I mixed with kids to play in mud. Kunal was already there with the kids, Harshit had joined before me. Harshit pushed Kunal into mud, and then Kunal pushed Harshit into mud. Both were buried once, then twice, then eventually thrice. In between, kids were pushed into the mud turn by turn. It was easy; it had to be easy.
+
+It was all empty, just us otherwise. Mreeganka did come for a second but that was not fun. Prashant had joined us a little later, but after forty-fifty minutes, both were gone. We went to B2 terrace to color Naina. We came down from there, Sneha, her sister, Mreeganka, and Yoshita were there, but we did not get any closer. We then later went to the terrace of A4 where Naina and her little prickly friends (other girls) had gone. Naina said to Harshit that he should stop because her brothers had told him to not even talk to her. We just watched the society from the rooftop. Later we were on C block terrace to trouble kids, little kids. While we were coming down with their mothers in the lift, they were trying to confirm the scene from us. What the hell; as if Harshit was going to let that happen. We went to terrace of B1 in the end. Appu had been there hiding from us. He has his exams going on and he did not want to get dirty, same case with Prabhav, just that he was at his home. Hardik came late; he was with Appu. After Appu went, he was with us. Hardik said Naina had by mistake thrown a pot filled with mud down from the terrace a few days back. Well, that happens in Manu. Harshit threw a bucket, a pouch, and a box down the roof. It belonged to people whom celebrating on terrace, Taneja aunty, Luthra aunty, Malini aunty, and their kids. Their kid came searching for kit and we had to leave right then, huh, Holi over. Pranav was not in the society earlier, but later he was with us. He left with us. Manan, Karan had to society to color Sneha and all, and when they found Harshit, they tore his T-shirt. I had given him one of mine then. 
+
+After Holi, I washed myself, and all the kids (not Prashant), fufaji, and buaji went to eat outside. It was a south Indian restaurant in south Delhi, far from here. I had uttapam. All of us were filled and wanted to sleep after this, but we were in car. We reached home, and plus I got my shirt back from Harshit. Now, I am going to start over with normal life. 
+
+I thought I should talk to Smita. I wished her for Holi. Her reply came around 0230 at midnight. I asked if she was online but then let it go, and told her everything is fine here. She replied in the morning, trying say that she wanted to talk and we will talk soon. However, I do not think I want to at heart. I was just trying to be polite with her, nothing much here otherwise. 
+
+God bless me
+Ashish </pre>

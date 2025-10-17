@@ -1,0 +1,111 @@
+<head>
+    <script crossorigin="anonymous" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/personal-posts-menu.html",
+                success: function (result) {
+                    $("div.customTemporaryCodeHolder").html(result);
+                    $("nav.customDynamicNav").html(
+                        $("div.customTemporaryCodeHolder nav.customBitsWilpMenu").html()
+                    );
+                }
+            });
+
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/follow-us-on-social-media.html",
+
+                success: function (result) {
+                    $("span.customTempCodeHolderForSocialMedia").html(result);
+                    $("div.customSocialMediaBtnsWrapper").html(
+                        $("span.customTempCodeHolderForSocialMedia div.customSocialMediaWrapper").html()
+                    );
+                }
+
+            });
+        }); 
+    </script>
+    <!-- Google AdSense Using Machine Learning Code -->
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-3071098372371409",
+            enable_page_level_ads: true
+        });
+    </script>
+
+    <style>
+        .customTempCodeHolderForSocialMedia {
+            display: none;
+        }
+
+        pre {
+            white-space: pre-wrap;
+            white-space: -moz-pre-wrap;
+            white-space: -pre-wrap;
+            white-space: -o-pre-wrap;
+            word-wrap: break-word;
+        }
+
+        .customOl {
+            font-size: 15px;
+        }
+
+        .customPre {
+            white-space: pre-wrap; 
+        }
+
+        .customLink {
+            background-color: #4CAF50;
+            border: none;
+            color: white !important;
+            padding: 8px 13px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 14px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+
+        .customLink:hover {
+            text-decoration: none;
+        }
+
+        .custom_5px_0px_padding_noMargin {
+            padding: 5px 0px;
+            margin: 0px;
+        }
+    
+    </style>
+</head>
+<div class="customTemporaryCodeHolder"> </div>
+<span class="customTempCodeHolderForSocialMedia"> </span>
+
+<nav class="customDynamicNav"> </nav> <br />
+<div class="customSocialMediaBtnsWrapper"> </div> <br />
+<!-- End of 'Personal Posts Menu Template For Copy-Paste'. It started from the top of the page from <HEAD> tag. -->
+<a href="https://survival8.blogspot.com/2021/02/index-of-journals.html" class="customLink">Index of Journals</a>
+
+<pre class="">March 9, 2011
+
+I was sleeping a lot yesterday. I just had hangover at all times. Napping in afternoon, napping at night, nor did I wake up early in the morning. I woke up around 8am and then told amma to come at ten. What woke my senses up were the bolder headlines in the paper, “DU student shot dead by stalker.”
+
+I could not realize what it had to do with me, nothing. Still it worried me, I was questioning myself whether to head for college or not. 
+Without having a bath, I left for college. There was police car standing near the bus stop. A man was there with newspaper. I asked him for the paper for a second and there was this same news. I was crossing the zero-pusta road divider, I had crossed it, and then I tore my jeans near the knee by a rod coming out of cement block kept near the worked-area on the road. Fuck, I had no options but to head back home. I came back home. 
+
+I have been studying 'Software Engineering' (SE) since I left laptop after working a little about my XI standard diaries around 1430. 
+I had called Sonam in the afternoon, and I called Vibha just now. I got 13 and half in 'Circuits and Systems' (CS).
+
+I am getting a good feeling that Preeti ma’am is back. It will make it easier for us students to get with the teachers. I am talking about myself. 
+Yesterday, in 'Algorithms Design and Analysis' (ADA) class I was just trying to take a distant look at the green cover book on Vibha’s table. Sir saw me and asked what happened. I told him Vibha has book by a local writer. Sir did not get it, I am glad Sonam repeated it for me. Sonam looked beautiful yesterday. Seriously, she had done something with her face.
+
+I am anticipating a laptop in near future after the hopes which grandpa held up in my head. I had casually asked Anu when she would be earning. Anu today put it down before grandma and said "Sadhna (refering to mom) had asked the same thing when she was here". What kind of joke was this?
+
+Now that I have decided not to follow any religion, sometimes I feel so bad that there is no roof above my head. In addition, I now know why people in most difficult times are able to pass through it without doing anything. 
+
+While watching the news about this murder that happened yesterday, I asked grandpa (baba ji) about the punishments following a ‘murder’ and ‘attempt to murder”. It is seven years imprisonment for an attempt, and life-imprisonment or sentence-to-death for murder. 
+
+God Bless Me
+Ashish</pre>

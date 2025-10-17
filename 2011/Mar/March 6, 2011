@@ -1,0 +1,105 @@
+<head>
+    <script crossorigin="anonymous" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/personal-posts-menu.html",
+                success: function (result) {
+                    $("div.customTemporaryCodeHolder").html(result);
+                    $("nav.customDynamicNav").html(
+                        $("div.customTemporaryCodeHolder nav.customBitsWilpMenu").html()
+                    );
+                }
+            });
+
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/follow-us-on-social-media.html",
+
+                success: function (result) {
+                    $("span.customTempCodeHolderForSocialMedia").html(result);
+                    $("div.customSocialMediaBtnsWrapper").html(
+                        $("span.customTempCodeHolderForSocialMedia div.customSocialMediaWrapper").html()
+                    );
+                }
+
+            });
+        }); 
+    </script>
+    <!-- Google AdSense Using Machine Learning Code -->
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-3071098372371409",
+            enable_page_level_ads: true
+        });
+    </script>
+
+    <style>
+        .customTempCodeHolderForSocialMedia {
+            display: none;
+        }
+
+        pre {
+            white-space: pre-wrap;
+            white-space: -moz-pre-wrap;
+            white-space: -pre-wrap;
+            white-space: -o-pre-wrap;
+            word-wrap: break-word;
+        }
+
+        .customOl {
+            font-size: 15px;
+        }
+
+        .customPre {
+            white-space: pre-wrap; 
+        }
+
+        .customLink {
+            background-color: #4CAF50;
+            border: none;
+            color: white !important;
+            padding: 8px 13px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 14px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+
+        .customLink:hover {
+            text-decoration: none;
+        }
+
+        .custom_5px_0px_padding_noMargin {
+            padding: 5px 0px;
+            margin: 0px;
+        }
+    
+    </style>
+</head>
+<div class="customTemporaryCodeHolder"> </div>
+<span class="customTempCodeHolderForSocialMedia"> </span>
+
+<nav class="customDynamicNav"> </nav> <br />
+<div class="customSocialMediaBtnsWrapper"> </div> <br />
+<!-- End of 'Personal Posts Menu Template For Copy-Paste'. It started from the top of the page from <HEAD> tag. -->
+<a href="https://survival8.blogspot.com/2021/02/index-of-journals.html" class="customLink">Index of Journals</a>
+
+<pre class="">March 6, 2011
+
+Yesterday, aunt Seema bought this necklace worth 150 thousand. uncle Yashvir bought her this piece. I do not understand what goes in their heads. Anu will be about to earn some bucks, uncle Yashvir is never spending enough to look down on how much Anu would earn. Then there it is this so suddenly, a car of worth one million, a necklace worth 0.15 million, talks about a new laptop. It is all to create mirage that he can be spending much more than what not anyone in this house can imagine of buying in the near future. 
+
+I think about Priti ma’am whenever I hear about her. She was a wrong person or a right person, or all these people are just showy. Every scene that I remember about her had made me look short and petite. During the first class when she had said, “Q is silent in QWERTY” on my response to the question that asked most common type of keyboard; when in her last lecture I was sharing seat with Gaurav Sati and he had almost kept in the five percent of the chair by constantly spreading out in my direction. Priti ma’am saw it but did not speak anything, how can anyone be so unresponsive, or dumb, or stolid is the word? Her behavior is so unclear, seems like she do not want to be there where she is, it was just not her choice. 
+
+Ankur was here today, senior bua Kumkum also. I told him it was not a very nice time to come around, I have exam next day. I had lots of course load. I could not have wasted the day like that, but with Ankur around now, I could not have focused. I dropped the books and we talked. Aunt Seema called for food, and then call came from senior bua Kumkum. She was like forcing me to eat the food, and not asking. What was that, I did not want to learn and said okay fine. uncle Yashvir pinched in, “you did not get up just now?” “Nope,” I said. This man totally sucks.
+
+Ankur just gave me a package of his X rated content. It is awesome. I think I am loosing my mind again. Hope I could study. 
+There is hell lot of syllabus left and I am not going to do it all yet again. 
+
+I today deleted 1.5GB of Hindi songs today. I myself could not believe for hours. I had collected them from Amogh and Pranav via CDs in 2008 and 2009. It used to look pretty much like begging and I used to value my songs-collection very much until when I deleted innumerable number of songs. It hurts.
+
+God Bless Me
+Ashish</pre>

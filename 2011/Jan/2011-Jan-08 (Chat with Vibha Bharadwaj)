@@ -1,0 +1,201 @@
+<head>
+    <script crossorigin="anonymous" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/personal-posts-menu.html",
+                success: function (result) {
+                    $("div.customTemporaryCodeHolder").html(result);
+                    $("nav.customDynamicNav").html(
+                        $("div.customTemporaryCodeHolder nav.customBitsWilpMenu").html()
+                    );
+                }
+            });
+
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/follow-us-on-social-media.html",
+
+                success: function (result) {
+                    $("span.customTempCodeHolderForSocialMedia").html(result);
+                    $("div.customSocialMediaBtnsWrapper").html(
+                        $("span.customTempCodeHolderForSocialMedia div.customSocialMediaWrapper").html()
+                    );
+                }
+
+            });
+        }); 
+    </script>
+    <!-- Google AdSense Using Machine Learning Code -->
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-3071098372371409",
+            enable_page_level_ads: true
+        });
+    </script>
+
+    <style>
+        .customTempCodeHolderForSocialMedia {
+            display: none;
+        }
+
+        pre {
+            white-space: pre-wrap;
+            white-space: -moz-pre-wrap;
+            white-space: -pre-wrap;
+            white-space: -o-pre-wrap;
+            word-wrap: break-word;
+        }
+
+        .customOl {
+            font-size: 15px;
+        }
+
+        .customPre {
+            white-space: pre-wrap; 
+        }
+
+        .customLink {
+            background-color: #4CAF50;
+            border: none;
+            color: white !important;
+            padding: 8px 13px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 14px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+
+        .customLink:hover {
+            text-decoration: none;
+        }
+
+        .custom_5px_0px_padding_noMargin {
+            padding: 5px 0px;
+            margin: 0px;
+        }
+    
+    </style>
+</head>
+<div class="customTemporaryCodeHolder"> </div>
+<span class="customTempCodeHolderForSocialMedia"> </span>
+
+<nav class="customDynamicNav"> </nav> <br />
+<div class="customSocialMediaBtnsWrapper"> </div> <br />
+<!-- End of 'Personal Posts Menu Template For Copy-Paste'. It started from the top of the page from <HEAD> tag. -->
+<a href="https://survival8.blogspot.com/2021/02/index-of-journals.html" class="customLink">Index of Journals</a>
+
+<pre>8 January 2011
+
+<b>Happy Birthday, Sameer!</b>
+
+I started the day with exercise. I went to the open grassy walks at the back of the society. I feel really awful sometimes to know that my height is short. I came back home at about 1100 and was watching movie afterwards. 
+Aunt went to temple, and when she returned she just threw fits on me for not putting the side-chairs down from the sofa. She said she had told me this thing before leaving, and guess what, she hadn’t. Plus, I was just about to put them down before she entered the door so that makes me feel not guilty. We got pretty much into verbal mess, but it never became a brawl. 
+
+I watched the movie and it was good. But, I was never in good mood, felt pissed as reached my bed, as if my whole body is too familiar with the surroundings of that corner of the house.
+
+Prachi was eating lunch with Anu and Prashant. I went to have a bath. And after that, I spent sometime in sharing jokes with Anu and Prachi. I didn’t want anything to go wrong, in my absence. Who can trust a ten-year-old?
+
+I was just never all right after today’s incident. I kept thinking about it, it was all over my head. I was feeling bad, guilty. All the time, I wanted nothing actually and I just slipped when the moment was lose. 
+
+I was just mad over what I had done and I sat on laptop in my room, thinking about writing for today. Aunt went out somewhere in the evening with Srishti.
+I watched “Mr. And Mrs. Smith” till seven and then I was texting Vibha. Her first text came when I was watching movie and I didn’t bother to reply. 
+
+<i style="color: blue">Vibha: I thnk v shud tlk nw.
+
+Ashish (after half an hour): Yes, pls.
+
+Ashish: Try to reply msgs earlier than half an hour...
+
+Vibha (after another 20 minutes): if ur rply cums late, wat cn I do..
+
+Ashish: Yeah so... wht did ya wnt to tlk abt?
+
+Vibha: i dunt hv nythng in mind, I jst wnted 2 tlk…
+
+Ashish: u kno wht, i most of the time cant think abt wht to do...
+
+Vibha: so wht u did on our b’day ws inertial or smthng out of ur mind...
+
+Ashish: My birthday, when ws tht
+
+Vibha: Was that on 8th Dec?....
+
+Ashish: Wht i had done, cant remember.... On the date you have in your mind...
+
+Vibha: Huh!....Dat ws sumthng nt imp 2 u....U msgd me-Vibha i love you....Dun tell me u dun remember....
+
+Ashish: I nvr linked d two incidents...
+
+Vibha: Hmm....Gr8.How many backs hv u got in ur 1st sem?
+
+Ashish: Three, eng, phy, comp
+And seven in next, six theory leavin mech and electrical's prac.
+
+Vibha: Hmm....I thnk u must b done wid ur subj of 1st sem?...
+
+Ashish: No not yet bt tht wudnt be problem... There's enough time i've got btw 18, my phy xam date nd 24, comp xam date. Eng xam's on 25, no probs at all.
+
+Vibha: Ahh....Den,u hv got loads of tym man....:)
+
+Ashish: Yeah...
+u dnt hv ny backs...?
+
+Vibha: Nope.May in dis sem,in OOPS.
+
+Ashish: ha... Tht's funny... This sem... It mght b math, nd analog, nd focs...fr me.
+
+Vibha: Ohh!....Yeah.Maths too.But u told me,ur analag xam went gud.
+
+Ashish: It ws our second xam, i did it lot b8r thn math and so i hd been rating analog well in earlier days
+
+Vibha: *Analog.....U knw wat,u resemble me of 2 people-Tiger Woods,Salman Rushdie.....
+
+Ashish: Why so... I want to ask.
+
+Ashish: They both r both great ppl of their field nd hd cheated deir wives...B-)
+
+Vibha: Yeah.Very true.U answd d que urself.Gud.
+
+Ashish: You Are Such a BITCH!!! :-P
+
+Vibha: Watt!!.....Actually i wanna rectify d 2nd reason.Both of dem had countless women in dere life.
+
+Ashish: So, whts rong wth SULMAN RUSHDIE nd TIGER WOODS hvin countless women in deir lives? Thy r best at wht they do... Nd fault finders cant find peace even in paradise... They deserve the best, they almost got world under deir feet... Seein deir gud works one hs surely got to envy them.
+
+Vibha: I simply ur appreciate ur spirit.But i wont luv Ashish 4 d 2nd reason.
+
+Ashish: I would love to be like them, i take tht as a compliment! B-)
+
+Ashish: You got a choice.... Man makes mistakes (I aint god) and fools repeat them.
+
+Vibha: I have already chosen u.
+
+Ashish: Wake upp! I kno tht.
+
+Vibha: U knw dat!!!....:(
+
+Ashish: :-P, nufin' to cry abt.... I've chosen you :-*
+
+Vibha: Nuffin?
+
+Ashish: Nothing, what?
+
+Vibha: Huh!...M askng its meaning....
+
+Ashish: 'Nothing' ws The Meanin.
+
+Vibha: Hmm....Ok.:(....Had dinner?...
+
+Ashish: Long b4... how abt you?
+
+Vibha: Just finished.</i>
+
+It was about 2230 that I had dinner and I was in bed later thinking about the today. 
+
+God Bless ‘Me’
+Ashish</pre>
+

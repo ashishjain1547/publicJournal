@@ -1,0 +1,108 @@
+<head>
+    <script crossorigin="anonymous" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/personal-posts-menu.html",
+                success: function (result) {
+                    $("div.customTemporaryCodeHolder").html(result);
+                    $("nav.customDynamicNav").html(
+                        $("div.customTemporaryCodeHolder nav.customBitsWilpMenu").html()
+                    );
+                }
+            });
+
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/follow-us-on-social-media.html",
+
+                success: function (result) {
+                    $("span.customTempCodeHolderForSocialMedia").html(result);
+                    $("div.customSocialMediaBtnsWrapper").html(
+                        $("span.customTempCodeHolderForSocialMedia div.customSocialMediaWrapper").html()
+                    );
+                }
+
+            });
+        }); 
+    </script>
+    <!-- Google AdSense Using Machine Learning Code -->
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-3071098372371409",
+            enable_page_level_ads: true
+        });
+    </script>
+
+    <style>
+        .customTempCodeHolderForSocialMedia {
+            display: none;
+        }
+
+        pre {
+            white-space: pre-wrap;
+            white-space: -moz-pre-wrap;
+            white-space: -pre-wrap;
+            white-space: -o-pre-wrap;
+            word-wrap: break-word;
+        }
+
+        .customOl {
+            font-size: 15px;
+        }
+
+        .customPre {
+            white-space: pre-wrap; 
+        }
+
+        .customLink {
+            background-color: #4CAF50;
+            border: none;
+            color: white !important;
+            padding: 8px 13px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 14px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+
+        .customLink:hover {
+            text-decoration: none;
+        }
+
+        .custom_5px_0px_padding_noMargin {
+            padding: 5px 0px;
+            margin: 0px;
+        }
+    
+    </style>
+</head>
+<div class="customTemporaryCodeHolder"> </div>
+<span class="customTempCodeHolderForSocialMedia"> </span>
+
+<nav class="customDynamicNav"> </nav> <br />
+<div class="customSocialMediaBtnsWrapper"> </div> <br />
+<!-- End of 'Personal Posts Menu Template For Copy-Paste'. It started from the top of the page from <HEAD> tag. -->
+<a href="https://survival8.blogspot.com/2021/02/index-of-journals.html" class="customLink">Index of Journals</a>
+
+<pre class="">March 4, 2011
+
+I can now understand the uneasiness of Anshu ma'am. How would a person sound saying that she is an English teacher. Pitiful if said with modesty, funny if said with attitude. In that way, our complete English staff should be laughed at. The new teacher, it looks like she spent too much to go under knife for cosmetic surgeries. 
+
+And basically, how must the college have chosen its faculty, it can not pay the best, and when it comes to choosing from farm animals, the college goes after all the bimbos.
+
+On the morning of third, I was awake since midnight. I went to sit on the table because I had backache due to messing up with sleeping hours and I was finding it difficult to continue to sit on bed. Around five, Prashant’s phone alarm rang. I tried to cover its speakers, lower its volume to minimum possible with effort but then Prashant moved in bed, terrifying me. I dropped the phone and carried away with my books. Prashant was now half-conscious, thanks to me for catching his attention so badly. The alarm continued to ring four times until it had to stop and Prashant sat in his place. I was not able to concentrate any further. I was digging my nose in the book but that was not of much help. Then my logical mind told me to move, the thing was that whole experience was valuable, I was feeling like I was sitting on Prashant’s place, and with him sitting behind, I knew less what he was thinking of it. I had made ‘middle finger’ on the wall with the pen that too was worrying me. Nobody wants trouble anymore. 
+
+I was sleeping in the bus when it reached Kashmere gate. A person had to wake me up. The weather was extremely awesome; it was drizzling when I had to run to college gates. Classrooms were not open yet. Nishant came soon. We sat for studying, and I learned that he had not done much. In fact, no one had done much, except for a few book-scorchers like Apurva, Shruti, and others. They had covered much of the syllabus; I just wonder how they do it!
+The teachers come and go watching us sitting and studying, I feel protected with the crew around. Apurv is fun. Nishant, Rizwan, Apurva, yes to a little extent, but I need to thank them all these days. 
+I probably think that the discipline committee has roped in students. These people are crazy. Okay, may be I was wrong for a day or two while checking them out but this shouldn’t have been such a big deal like what it has become! I wonder what role principal may have been playing.
+
+That physics teacher who is most of the times seen with another teacher and Sunaina ma’am. The unknown teachers both are young and cute. The taller one is voluptuous, the shorter one is cute and kind from face. I have seen the shorter one seeing me quite a number of times every now and then in like months. I am sure she checks me out. It was going a fine day until I just saw her going and she raised eyes to see when I was standing with Rizwan and Shruti. I did not care for what has been going on and matched eyes. I do not know on what side is she on?
+
+Last night when I was asleep, the laptop was gone. I was now a little worried about going back to pages again. I just had no other option; I could not be asking uncle for laptop. Life sucks; I want a laptop of mine. 
+
+God Bless Me
+Ashish</pre>

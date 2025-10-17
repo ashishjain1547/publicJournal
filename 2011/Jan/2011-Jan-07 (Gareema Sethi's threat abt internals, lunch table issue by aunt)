@@ -1,0 +1,113 @@
+<head>
+    <script crossorigin="anonymous" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/personal-posts-menu.html",
+                success: function (result) {
+                    $("div.customTemporaryCodeHolder").html(result);
+                    $("nav.customDynamicNav").html(
+                        $("div.customTemporaryCodeHolder nav.customBitsWilpMenu").html()
+                    );
+                }
+            });
+
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/follow-us-on-social-media.html",
+
+                success: function (result) {
+                    $("span.customTempCodeHolderForSocialMedia").html(result);
+                    $("div.customSocialMediaBtnsWrapper").html(
+                        $("span.customTempCodeHolderForSocialMedia div.customSocialMediaWrapper").html()
+                    );
+                }
+
+            });
+        }); 
+    </script>
+    <!-- Google AdSense Using Machine Learning Code -->
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-3071098372371409",
+            enable_page_level_ads: true
+        });
+    </script>
+
+    <style>
+        .customTempCodeHolderForSocialMedia {
+            display: none;
+        }
+
+        pre {
+            white-space: pre-wrap;
+            white-space: -moz-pre-wrap;
+            white-space: -pre-wrap;
+            white-space: -o-pre-wrap;
+            word-wrap: break-word;
+        }
+
+        .customOl {
+            font-size: 15px;
+        }
+
+        .customPre {
+            white-space: pre-wrap; 
+        }
+
+        .customLink {
+            background-color: #4CAF50;
+            border: none;
+            color: white !important;
+            padding: 8px 13px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 14px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+
+        .customLink:hover {
+            text-decoration: none;
+        }
+
+        .custom_5px_0px_padding_noMargin {
+            padding: 5px 0px;
+            margin: 0px;
+        }
+    
+    </style>
+</head>
+<div class="customTemporaryCodeHolder"> </div>
+<span class="customTempCodeHolderForSocialMedia"> </span>
+
+<nav class="customDynamicNav"> </nav> <br />
+<div class="customSocialMediaBtnsWrapper"> </div> <br />
+<!-- End of 'Personal Posts Menu Template For Copy-Paste'. It started from the top of the page from <HEAD> tag. -->
+<a href="https://survival8.blogspot.com/2021/02/index-of-journals.html" class="customLink">Index of Journals</a>
+
+<pre class="">7 January 2011, Friday
+
+I always had this fear that Gareema ma’am would be nearly failing me in internals so I was little worried about the DS theory exam. Because less marks in internals put a direct pressure on the student to cover up from theory exam. And I guess that helped, because I’m worried about math, analog-electronics, and FOCS (fundamentals of computer science) that’s when I got 15 and 21 out of 25 in internals in Math and A.E.
+
+I had come to college on my regular time, 9 AM. I entered the college gates to stand somewhere that it wouldn’t feel cold as usual when I would sit on the entrance of that building of non-functional institute. I did well in the exam. Though I exam was way too lengthy when I got struck in formulating countless algorithms asked in the paper. But in the end, it was all well. 
+
+At the time of leaving college premises, I met Anurag (Saxena, boxer). It felt real-special. First reason was that no one from my old contacts was acting normal. All of them were weirdly ignoring me. I too wasn’t too in the mood to confront them so just let it go. But it wouldn’t have been a nice thing to walk out the college on the day of last exam like this. So it felt good when Anurag called for my attention. Secondly, he too hadn’t talked to me for quite a while now. I mean it has been time since we last talked. 
+I like his sense of humor; he made me laugh and almost lifted my mood up again. But I had to go and stay normal so just said goodbye before he did. Uh, we talked enough already.
+
+I was thinking about how to start preparing for back papers in the train back to home. I reach home there it is badi buaji and Manju buaji. Nothing so special, just that badi buaji had been on trip to Shikharji. I had to go to sleep but I didn’t because there was too much noise around in the house. I had lunch at four. 
+Though chachiji had called me early but I didn’t want to so I didn’t. And what I get on coming here late is 3-and-a-half rotis instead of four. That was not cool, when amma told Anu to cook two more I didn’t say no. Aunt intervened. Actually, amma thought it was two, so. But I hate aunt for almost every act of her ever since I’ve known her.
+
+I was too tired to even sit to eat dinner at eight but I did it.
+
+In the morning, I took Irfan (who was there outside college gates even before me) inside the college campus and there he tells me about mobile-theft that happened during last day. He never acted like pointing at me, but I reckoned others were well about this. Ishan didn’t hold sight for long. Ravi and others who were walking in group seemed to unaware of my presence as we crossed. Plus, on the Metro station, Nishant had seemed resistant to shaking hands with me. Shruti was one of the victims. I recalled the plastic face expressions she had on her face when I had seen her coming out with her bag on the entrance on the last day. (Nishant was thrown out of the class on the same day. An invigilator came and took Nishant out of the class, holding him from his collar. Actually, there was total discussion going between Parul, Sonam, and Srishti. They had always been doing that. But they never get caught, girls hardly get caught.) 
+It was awkward to think about this attitude of college friends about me at all times. 
+
+Guess what, I had asked a number of people for Apurva Sood’s number and no one helped on that night at about 2330. But in the morning at 0630 Vibha sent her number, I felt thankful to her in my sleep. Later during the day, I realized I hadn’t even asked her!
+
+So, exams are over. But Vibha and I didn’t talk. We didn’t know what to talk. I had nothing to say, I just wanted to reach home when exam got over. 
+
+God Bless ‘Me’
+Ashish</pre>

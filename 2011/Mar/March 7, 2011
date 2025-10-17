@@ -1,0 +1,108 @@
+<head>
+    <script crossorigin="anonymous" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/personal-posts-menu.html",
+                success: function (result) {
+                    $("div.customTemporaryCodeHolder").html(result);
+                    $("nav.customDynamicNav").html(
+                        $("div.customTemporaryCodeHolder nav.customBitsWilpMenu").html()
+                    );
+                }
+            });
+
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/follow-us-on-social-media.html",
+
+                success: function (result) {
+                    $("span.customTempCodeHolderForSocialMedia").html(result);
+                    $("div.customSocialMediaBtnsWrapper").html(
+                        $("span.customTempCodeHolderForSocialMedia div.customSocialMediaWrapper").html()
+                    );
+                }
+
+            });
+        }); 
+    </script>
+    <!-- Google AdSense Using Machine Learning Code -->
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-3071098372371409",
+            enable_page_level_ads: true
+        });
+    </script>
+
+    <style>
+        .customTempCodeHolderForSocialMedia {
+            display: none;
+        }
+
+        pre {
+            white-space: pre-wrap;
+            white-space: -moz-pre-wrap;
+            white-space: -pre-wrap;
+            white-space: -o-pre-wrap;
+            word-wrap: break-word;
+        }
+
+        .customOl {
+            font-size: 15px;
+        }
+
+        .customPre {
+            white-space: pre-wrap; 
+        }
+
+        .customLink {
+            background-color: #4CAF50;
+            border: none;
+            color: white !important;
+            padding: 8px 13px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 14px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+
+        .customLink:hover {
+            text-decoration: none;
+        }
+
+        .custom_5px_0px_padding_noMargin {
+            padding: 5px 0px;
+            margin: 0px;
+        }
+    
+    </style>
+</head>
+<div class="customTemporaryCodeHolder"> </div>
+<span class="customTempCodeHolderForSocialMedia"> </span>
+
+<nav class="customDynamicNav"> </nav> <br />
+<div class="customSocialMediaBtnsWrapper"> </div> <br />
+<!-- End of 'Personal Posts Menu Template For Copy-Paste'. It started from the top of the page from <HEAD> tag. -->
+<a href="https://survival8.blogspot.com/2021/02/index-of-journals.html" class="customLink">Index of Journals</a>
+
+<pre class="">March 7, 2011
+
+I was coming back from college after exam; just a few steps ahead of the college gates, outside one tent among others there sat a woman, old and fat, and poor. She did not appear to be that poor but yes, she was in need. She said she needed money to travel, she asked for seven rupees. She was carrying some bag with herself, looked like she was onto her way to somewhere, and then tired her leg. I wanted to help her, I checked my pockets, and I recalled that I had no change. I just had a R100 note. I did not say anything I just walked past her after realizing my helplessness. It was 1440.
+
+I really had a terrible night last yesterday. I get these emotional upheavals due to everything sad around me. I cannot do anything about it but just one day run away from it all. It is very crazy but I do not seem to have a choice. I feel like scratching my brain out, dig my fingers into my scalp to make it bleed, and make me go bald in the process, so are my imagination when I go through such emotional highs-and-lows. 
+
+I went to college and I found no body. I went to empty my bowels, waking up late at night creates disorders in the whole body. Then Vibha and Nishant came, and we talked about Rape cases and crime happening in the city. I, kind of, supported rapists (jokingly) and then we took the discussion through. I left Nishant laughing and Vibha aghast with my ideas. That was good, and what surprised me was that both of them did not oppose to prostitution. That was good. 
+Then we sat in the sunshine on stairs. Many people just walked passed by us in a very few minutes of time. I was like asking everybody what hell is going around here. It started with Principal and First year, HOD. We talk and I talk loudly from everything to everything. I have an audience, you see. 
+Gareema Sethi ma’am is a *****; she was with Tanuja Nautiyal ma’am again. I seem to have really scared the hell out of her. In addition, that physics teacher still looks at me. I did not mind, that ***** is crazy, looks like she is into me, unmarried girl and in late twenties, what is up!
+
+I had a nice time writing the exam, the paper was easy. Otherwise, they could have failed us bunnies in this subject 'Operating Systems' (OS) easily. 
+I went to library to sleep after this, I was not there to sleep but to study, but then I needed rest. I felt awkward to head for library to study past the lively college crowd collected after the last exam, hot girls everywhere. I need a break. 
+
+I still had tired eyes when around 1430 I woke and decided to go home.
+Police escorts, yet again. Hired detectives outside college, and dummy-students and teachers for the same purpose posted in the place around me at the college. I have scared the hell out of these people. Kuldeep sir was showing sympathy in actions, may be it is time for him to pay back. 
+
+God Bless Me
+Ashish</pre>

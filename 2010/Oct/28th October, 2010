@@ -1,0 +1,103 @@
+<head>
+    <script crossorigin="anonymous" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/personal-posts-menu.html",
+                success: function (result) {
+                    $("div.customTemporaryCodeHolder").html(result);
+                    $("nav.customDynamicNav").html(
+                        $("div.customTemporaryCodeHolder nav.customBitsWilpMenu").html()
+                    );
+                }
+            });
+
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/follow-us-on-social-media.html",
+
+                success: function (result) {
+                    $("span.customTempCodeHolderForSocialMedia").html(result);
+                    $("div.customSocialMediaBtnsWrapper").html(
+                        $("span.customTempCodeHolderForSocialMedia div.customSocialMediaWrapper").html()
+                    );
+                }
+
+            });
+        }); 
+    </script>
+    <!-- Google AdSense Using Machine Learning Code -->
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-3071098372371409",
+            enable_page_level_ads: true
+        });
+    </script>
+
+    <style>
+        .customTempCodeHolderForSocialMedia {
+            display: none;
+        }
+
+        pre {
+            white-space: pre-wrap;
+            white-space: -moz-pre-wrap;
+            white-space: -pre-wrap;
+            white-space: -o-pre-wrap;
+            word-wrap: break-word;
+        }
+
+        .customOl {
+            font-size: 15px;
+        }
+
+        .customPre {
+            white-space: pre-wrap; 
+        }
+
+        .customLink {
+            background-color: #4CAF50;
+            border: none;
+            color: white !important;
+            padding: 8px 13px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 14px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+
+        .customLink:hover {
+            text-decoration: none;
+        }
+
+        .custom_5px_0px_padding_noMargin {
+            padding: 5px 0px;
+            margin: 0px;
+        }
+    
+    </style>
+</head>
+<div class="customTemporaryCodeHolder"> </div>
+<span class="customTempCodeHolderForSocialMedia"> </span>
+
+<nav class="customDynamicNav"> </nav> <br />
+<div class="customSocialMediaBtnsWrapper"> </div> <br />
+<!-- End of 'Personal Posts Menu Template For Copy-Paste'. It started from the top of the page from <HEAD> tag. -->
+<a href="https://survival8.blogspot.com/2021/02/index-of-journals.html" class="customLink">Index of Journals</a>
+
+<pre class="">28th October, 2010
+
+Thurdays are boring at college. First lecture was of Data Structures and ma'am (Gareema Sethi) didn't act too crazy today. Next was practicals of "Circuits and Systems". Experiments got over in an hour and now there was 1.5 hour free. I spend this time alone on the top floor that has most of its rooms out of use. 
+
+Huh, life is really not so good at college. After break, Kuldeep sir called for lecture and the class filled with 14-15 students. Kuldeep sir is a complete idiot. He'd write wrong program codes, everything wrong and would ask if everybody understood the thing. And maybe he has a reason for it since students will tell him that they attend his classes just for attendance. One can understand that it's too much of an insult. Class had started at 12:30 and by the time it was about to be 14:00, class had only sir and me. During the class sir was acting like a jerk at all times teaching the class wrong things and I was on continuous questioning mode like rapid fire round for sir. I was on center first bench and rest of the class was practically sitting behind me. Rest of the students were doing their own things: talking, making practical files, etc. Silly! Sir and I were taking the class through. And trust me, sir was too wrong to look like a teacher and I was too right w.r.t. sir to look like a student! Huh! 
+
+Sir and I left the class at 14:30 and I had proven sir wrong with his understanding on the topic by the end. Erstwhile, Ishan (my first friend) and his girlfriend see sir and me off (after 14:00) discussing things in the class.
+
+And erstwhile, Tanvi Gautam, Dhanraj and Irfan Khan were behind me. Now someone taps my shoulder like earlier some day before I had tapped Tanvi's shoulder and now when I turn back to touch her on cheeck playfully, she was laughing with head down and she would tell me, "Excuse me, keep your hands in control!"
+Crazy, the class heard her. And during the break she was with her boyfriend and then at the moment, he sees me off like he knew something about me.
+
+God Bless 'Me'
+(Ash)</pre>

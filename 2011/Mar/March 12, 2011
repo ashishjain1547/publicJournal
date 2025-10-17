@@ -1,0 +1,102 @@
+<head>
+    <script crossorigin="anonymous" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/personal-posts-menu.html",
+                success: function (result) {
+                    $("div.customTemporaryCodeHolder").html(result);
+                    $("nav.customDynamicNav").html(
+                        $("div.customTemporaryCodeHolder nav.customBitsWilpMenu").html()
+                    );
+                }
+            });
+
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/follow-us-on-social-media.html",
+
+                success: function (result) {
+                    $("span.customTempCodeHolderForSocialMedia").html(result);
+                    $("div.customSocialMediaBtnsWrapper").html(
+                        $("span.customTempCodeHolderForSocialMedia div.customSocialMediaWrapper").html()
+                    );
+                }
+
+            });
+        }); 
+    </script>
+    <!-- Google AdSense Using Machine Learning Code -->
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-3071098372371409",
+            enable_page_level_ads: true
+        });
+    </script>
+
+    <style>
+        .customTempCodeHolderForSocialMedia {
+            display: none;
+        }
+
+        pre {
+            white-space: pre-wrap;
+            white-space: -moz-pre-wrap;
+            white-space: -pre-wrap;
+            white-space: -o-pre-wrap;
+            word-wrap: break-word;
+        }
+
+        .customOl {
+            font-size: 15px;
+        }
+
+        .customPre {
+            white-space: pre-wrap; 
+        }
+
+        .customLink {
+            background-color: #4CAF50;
+            border: none;
+            color: white !important;
+            padding: 8px 13px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 14px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+
+        .customLink:hover {
+            text-decoration: none;
+        }
+
+        .custom_5px_0px_padding_noMargin {
+            padding: 5px 0px;
+            margin: 0px;
+        }
+    
+    </style>
+</head>
+<div class="customTemporaryCodeHolder"> </div>
+<span class="customTempCodeHolderForSocialMedia"> </span>
+
+<nav class="customDynamicNav"> </nav> <br />
+<div class="customSocialMediaBtnsWrapper"> </div> <br />
+<!-- End of 'Personal Posts Menu Template For Copy-Paste'. It started from the top of the page from <HEAD> tag. -->
+<a href="https://survival8.blogspot.com/2021/02/index-of-journals.html" class="customLink">Index of Journals</a>
+
+<pre class="">March 12, 2011
+
+Around 0800 I woke up and gave Ankur a call. He didn’t pick up. I waited till 1000 and called him again via landline and chachi’s phone. It felt very bad to know that he was going to be busy today. He had to go to audit somewhere today, he said. I got a promise from him that he’ll be going with me to Nehru Place on Monday. I left for the local market with 30R for the day. Amma denied giving 100R. I visited local market and Laxmi Nagar, eventually, seeing that if would go back home early amma would know I did not spend money in going to college, which I anyway never do. My budget price of 20K is well under control with the market price of notebooks from various brands. I was satisfied but just if I could go and see Nehru Place once. I had been trying Ankur’s number ever since this morning, and tried to call him again after coming back home. Then I called on Shruti’s number. I asked Shruti if Ankur was there, and hell, yes, he was. As Shruti passed on the phone, the first word that came out of my mouth was an expletive. I told him that I was coming to his place tomorrow but then he said he has to go to work tomorrow, on Sunday because he took leave today. He settled down to meet me on Monday. Ankur was watching cricket match between India vs. South Africa, which, now, I’m glad India lost. 
+
+After waking up from evening nap I still didn’t have any idea of what to do after such a terrible day. And Srishti brought Sonal Singh inside the house when she had come to call Srishti to accompany her somewhere they were going. 
+
+These days I’m trying to talk to Smita to learn to talk. 
+
+Neighbor of maid servant hanged himself after a fight with his wife, funny (sarcastically).
+
+God bless me
+Ashish </pre>

@@ -1,0 +1,106 @@
+<head>
+    <script crossorigin="anonymous" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/personal-posts-menu.html",
+                success: function (result) {
+                    $("div.customTemporaryCodeHolder").html(result);
+                    $("nav.customDynamicNav").html(
+                        $("div.customTemporaryCodeHolder nav.customBitsWilpMenu").html()
+                    );
+                }
+            });
+
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/follow-us-on-social-media.html",
+
+                success: function (result) {
+                    $("span.customTempCodeHolderForSocialMedia").html(result);
+                    $("div.customSocialMediaBtnsWrapper").html(
+                        $("span.customTempCodeHolderForSocialMedia div.customSocialMediaWrapper").html()
+                    );
+                }
+
+            });
+        }); 
+    </script>
+    <!-- Google AdSense Using Machine Learning Code -->
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-3071098372371409",
+            enable_page_level_ads: true
+        });
+    </script>
+
+    <style>
+        .customTempCodeHolderForSocialMedia {
+            display: none;
+        }
+
+        pre {
+            white-space: pre-wrap;
+            white-space: -moz-pre-wrap;
+            white-space: -pre-wrap;
+            white-space: -o-pre-wrap;
+            word-wrap: break-word;
+        }
+
+        .customOl {
+            font-size: 15px;
+        }
+
+        .customPre {
+            white-space: pre-wrap; 
+        }
+
+        .customLink {
+            background-color: #4CAF50;
+            border: none;
+            color: white !important;
+            padding: 8px 13px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 14px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+
+        .customLink:hover {
+            text-decoration: none;
+        }
+
+        .custom_5px_0px_padding_noMargin {
+            padding: 5px 0px;
+            margin: 0px;
+        }
+    
+    </style>
+</head>
+<div class="customTemporaryCodeHolder"> </div>
+<span class="customTempCodeHolderForSocialMedia"> </span>
+
+<nav class="customDynamicNav"> </nav> <br />
+<div class="customSocialMediaBtnsWrapper"> </div> <br />
+<!-- End of 'Personal Posts Menu Template For Copy-Paste'. It started from the top of the page from <HEAD> tag. -->
+<a href="https://survival8.blogspot.com/2021/02/index-of-journals.html" class="customLink">Index of Journals</a>
+
+<pre class="">27th October, 2010
+
+Though I was not so late I missed the first class since Section B and A were sitting together. Till 10AM the Math teacher kept teaching two sections and during that time, I was in canteen with a type of friend circle (second friend circle this year). 
+
+Gareema ma'am missed class in the name of some counselling by some city B-school. Nothing at all. Those pretty girls at college see me with eyes telling their story of being single. I had a beautiful experience while trying to reach Sonal and I guess it's good to be single and even better to be unmarried. Live-in is still find. Prachi Gaur, Shruti Barahpuria, Vibha Bhardwaj, Karishma Garg, Tanvi Gautam, Neha, Kanupriya Gupta, Surbhi Joshi, long list...
+
+Again I was dying to sleep in 'Circuits and Systems' and I'm pretty comfortable about the fact that teacher's is going to screw me in the internal assessment.
+
+Apoorv, Nitish and I and Eina, Meena, Deeka attended OOPS class, everybody else ran out when the bell for the period rang. Nitish was speaking more than enough like he was the teacher here. I just couldn't figure out why in the world would someone try to impress Kulpeep sir.
+
+Last evening I had to call Vishal and I called Kuldeep sir instead mistakenly by landline, huh! I'm glad I didn't leak anything personal or something.
+
+I watched movie till evening after coming back home. And guess what happened in the morning, I didn't wake up with my alarm/phone and when around 5:30 AM, Prashant's phone/alarm rang and I silence it. And what next, Prashant who was already awake, lift himself up to show that he was real alive and that he caught me red-handed. Huh, like I care!
+
+God Bless 'Me'
+Ash</pre>
