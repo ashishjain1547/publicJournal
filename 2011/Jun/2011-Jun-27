@@ -1,0 +1,103 @@
+<head>
+    <script crossorigin="anonymous" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/personal-posts-menu.html",
+                success: function (result) {
+                    $("div.customTemporaryCodeHolder").html(result);
+                    $("nav.customDynamicNav").html(
+                        $("div.customTemporaryCodeHolder nav.customBitsWilpMenu").html()
+                    );
+                }
+            });
+
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/follow-us-on-social-media.html",
+
+                success: function (result) {
+                    $("span.customTempCodeHolderForSocialMedia").html(result);
+                    $("div.customSocialMediaBtnsWrapper").html(
+                        $("span.customTempCodeHolderForSocialMedia div.customSocialMediaWrapper").html()
+                    );
+                }
+
+            });
+        });
+    </script>
+    <!-- Google AdSense Using Machine Learning Code -->
+
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-3071098372371409",
+            enable_page_level_ads: true
+        });
+    </script>
+    <style>
+        .customTempCodeHolderForSocialMedia {
+            display: none;
+        }
+
+        pre {
+            white-space: pre-wrap;
+            white-space: -moz-pre-wrap;
+            white-space: -pre-wrap;
+            white-space: -o-pre-wrap;
+            word-wrap: break-word;
+        }
+
+        .customOl {
+            font-size: 15px;
+        }
+
+        .customPre {
+            white-space: pre-wrap;
+        }
+
+        .customLink {
+            background-color: #4CAF50;
+            border: none;
+            color: white !important;
+            padding: 8px 13px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 14px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+
+        .customLink:hover {
+            text-decoration: none;
+        }
+
+        .custom_5px_0px_padding_noMargin {
+            padding: 5px 0px;
+            margin: 0px;
+        }
+
+        i.ig {
+            color: green
+        }
+    </style>
+</head>
+
+<div class="customTemporaryCodeHolder"> </div>
+<span class="customTempCodeHolderForSocialMedia"> </span>
+<nav class="customDynamicNav"> </nav> <br />
+<div class="customSocialMediaBtnsWrapper"> </div> <br />
+<a href="https://survival8.blogspot.com/2021/02/index-of-journals.html" class="customLink">Index of Journals</a>
+<!-- End of 'Personal Posts Menu Template For Copy-Paste'. It started from the top of the page from <HEAD> tag. -->
+
+<pre>June 27, 2011
+It was a nice day, hope it would be same forever. The news that I had texted Neha reached Tanvi and she told me not to do that again. I didn’t realize that she was actually talking to me about that. I didn’t cross question and accepted what she demanded. When I turned Neha was there at a quick distance, now picking her bag up. I had a nice day, why was I going to bother about her. 
+It was after ages that I was talking to Chirag Dang. He was sitting on my right in the lab, and Hemanshu on the left. They were discussing my act of sending non vegan jokes to girls. It has been ages since that happened, six months. In the break I had lunch with Arun and Dinesh. We discussed the evening of fifth June. I told them that I had just posted that thing to refresh my mood up; Dinesh said it has kept my mood still refreshed. 
+Nidhi is oh-so-cute. She does have a boyfriend but she is open to next good guy. When Hemanshu saw her glancing me he pushed me to at least go and say hi. It was after the lab and I just had to come back home early. 
+In the morning, I had asked Rakhi for water and she passed that happily. I didn’t know that she was taking the bottle in her mouth to drink. From our seat Arun and I noticed it later and it was a thing of joke on me.
+In the lab when you call that lady teacher she would come and put hand on one of your shoulder, sometimes on both when it is a doubt worth paying good time. I had to call her over to my seat again and over again. I made it sure that I don’t overdo it and let her play instead of me trying to climb over. I had been to the library that lady librarian, the forty-naughty-junior was there, she tried to mess it up again. She would talk with other underpaid library keepers and would act like you are the pervert there trying to get a signal to leave after getting your library card.
+Vibha was wearing the royal blue color top today. She liked me in that color. Was that to impress me? In the break during theory class I was in canteen and along with the group of Vibha there was group of Aditya except Ravi. I was with Dinesh and group on the entrance and then I was called by Aditya. I went over to them and there were handshakes and hugs. Aditya and Varun are cool guys, Raghav was also present. They appreciated my work on Facebook until now and were asking about what is to come next. They motivated me to continue creating turbulence in CS1E group on Facebook. Still they had to think twice when Raghav told Aditya to add me to the group. It felt good to hear from these guys. 
+At the time when I was walking down the street while returning from college I overtook Vibha’s group including Neha. I was trying to catch Ishan and Disha moving ahead of them. Soon as I crossed these people there was a cry that ‘someone hasn’t found a girlfriend yet’, it was Srishti’s voice. I didn’t look back as I had already called Ishan to look back at me at a distance of footsteps now. 
+God bless me
+Ashish</pre>

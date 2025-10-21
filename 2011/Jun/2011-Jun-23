@@ -1,0 +1,103 @@
+<head>
+    <script crossorigin="anonymous" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/personal-posts-menu.html",
+                success: function (result) {
+                    $("div.customTemporaryCodeHolder").html(result);
+                    $("nav.customDynamicNav").html(
+                        $("div.customTemporaryCodeHolder nav.customBitsWilpMenu").html()
+                    );
+                }
+            });
+
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/follow-us-on-social-media.html",
+
+                success: function (result) {
+                    $("span.customTempCodeHolderForSocialMedia").html(result);
+                    $("div.customSocialMediaBtnsWrapper").html(
+                        $("span.customTempCodeHolderForSocialMedia div.customSocialMediaWrapper").html()
+                    );
+                }
+
+            });
+        });
+    </script>
+    <!-- Google AdSense Using Machine Learning Code -->
+
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-3071098372371409",
+            enable_page_level_ads: true
+        });
+    </script>
+    <style>
+        .customTempCodeHolderForSocialMedia {
+            display: none;
+        }
+
+        pre {
+            white-space: pre-wrap;
+            white-space: -moz-pre-wrap;
+            white-space: -pre-wrap;
+            white-space: -o-pre-wrap;
+            word-wrap: break-word;
+        }
+
+        .customOl {
+            font-size: 15px;
+        }
+
+        .customPre {
+            white-space: pre-wrap;
+        }
+
+        .customLink {
+            background-color: #4CAF50;
+            border: none;
+            color: white !important;
+            padding: 8px 13px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 14px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+
+        .customLink:hover {
+            text-decoration: none;
+        }
+
+        .custom_5px_0px_padding_noMargin {
+            padding: 5px 0px;
+            margin: 0px;
+        }
+
+        i.ig {
+            color: green
+        }
+    </style>
+</head>
+
+<div class="customTemporaryCodeHolder"> </div>
+<span class="customTempCodeHolderForSocialMedia"> </span>
+<nav class="customDynamicNav"> </nav> <br />
+<div class="customSocialMediaBtnsWrapper"> </div> <br />
+<a href="https://survival8.blogspot.com/2021/02/index-of-journals.html" class="customLink">Index of Journals</a>
+<!-- End of 'Personal Posts Menu Template For Copy-Paste'. It started from the top of the page from <HEAD> tag. -->
+
+<pre>
+June 23, 2011
+Yesterday, there was a theft. Nikunj’s bag was stolen and then emptied and thrown in gent’s toilet. It had her mobile phone and money. I learned it today in the break from Arun and Dinesh. It happened when everybody was attending the lab. I didn’t attend the lab even today. I was thinking about the lady teacher who was roaming the class and was most of the time present around me. In the morning, Prashant sir and Kuldeep sir were sitting in between the students to see the teaching of the external teachers. I was lucky for having entered the class on time today. Tanvi was wearing a wide open neck Kurti like top, her bra strings were clearly visible plus much part of her bosom except from anything in particular, not even breast line though her cleavage ran deep down. It had occupied my thoughts for so long and I was not feeling very happy for having an occupied mind with some shit. Vibha was trying to develop a long distance bridge when she was pushing her open hair to other while talking to those nerds sitting behind her. I looked away.
+Chachi and the kids have gone to grandma-in-law. It was surprising to see that the new Dell laptop is not password protected. I was able to login and also connect to the internet. My friend count is 92 now. The CS1E has 46 members and I sent friend requests to Arun, Deepanshu, Abhilash, and Nidhi Garg. I have a feeling that she will not accept though I also sent her a message. She had been squinting behind in the class to see if she was being watched by the back benchers on my side. 
+I slept after coming and it is now 1804 and I should better do some math.
+Ishan and Disha make a terrible couple still Ishan denied me a seat in the name of no one called Gareema. Huh, yesterday I had lunch with Disha and I thought may be I could befriend these two but I was wrong.
+Arun was telling Dinesh to add me again to the group. I was feeling happy about that, plus Arun told me to add him to as friend on Facebook.
+God bless me
+Ashish
+</pre>

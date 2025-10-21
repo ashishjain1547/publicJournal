@@ -1,0 +1,114 @@
+<head>
+    <script crossorigin="anonymous" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/personal-posts-menu.html",
+                success: function (result) {
+                    $("div.customTemporaryCodeHolder").html(result);
+                    $("nav.customDynamicNav").html(
+                        $("div.customTemporaryCodeHolder nav.customBitsWilpMenu").html()
+                    );
+                }
+            });
+
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/follow-us-on-social-media.html",
+
+                success: function (result) {
+                    $("span.customTempCodeHolderForSocialMedia").html(result);
+                    $("div.customSocialMediaBtnsWrapper").html(
+                        $("span.customTempCodeHolderForSocialMedia div.customSocialMediaWrapper").html()
+                    );
+                }
+
+            });
+        });
+    </script>
+    <!-- Google AdSense Using Machine Learning Code -->
+
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-3071098372371409",
+            enable_page_level_ads: true
+        });
+    </script>
+    <style>
+        .customTempCodeHolderForSocialMedia {
+            display: none;
+        }
+
+        pre {
+            white-space: pre-wrap;
+            white-space: -moz-pre-wrap;
+            white-space: -pre-wrap;
+            white-space: -o-pre-wrap;
+            word-wrap: break-word;
+        }
+
+        .customOl {
+            font-size: 15px;
+        }
+
+        .customPre {
+            white-space: pre-wrap;
+        }
+
+        .customLink {
+            background-color: #4CAF50;
+            border: none;
+            color: white !important;
+            padding: 8px 13px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 14px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+
+        .customLink:hover {
+            text-decoration: none;
+        }
+
+        .custom_5px_0px_padding_noMargin {
+            padding: 5px 0px;
+            margin: 0px;
+        }
+
+        i.ig {
+            color: green
+        }
+    </style>
+</head>
+
+<div class="customTemporaryCodeHolder"> </div>
+<span class="customTempCodeHolderForSocialMedia"> </span>
+<nav class="customDynamicNav"> </nav> <br />
+<div class="customSocialMediaBtnsWrapper"> </div> <br />
+<a href="https://survival8.blogspot.com/2021/02/index-of-journals.html" class="customLink">Index of Journals</a>
+<!-- End of 'Personal Posts Menu Template For Copy-Paste'. It started from the top of the page from <HEAD> tag. -->
+
+<pre>
+A humble request to all group members:
+Friends please delete Ashish Jain from your friend list because he crosses his limits of vulgarity. He is VULGAR and DESPERATE and don’t know how to RESPECT a girl. So please delete him from your friend list before someone becomes the victim of his bullshit VULGARITY. If you think that I’m right than please support me.
+Abhishek Shukla: What else u can expect from him???? He’s been doin this stuff time and again; still u people took that lightly. I don’t know why? >B-(
+Kriti Bahl: USKI MAAA******* KAL COLLEGE MEIN BATAONGEE USKO 3like
+Raghav Agarwal: USNE PIC BABA RAMDEV KI LAGA RAKHI HAIIIII AUR HARKATE DEKHOOOOO… 4like
+Akash Rajpoot: ABE ATTENTION SEEKER H SALA!! SABSE BADA FAKE….   1like
+Abhishek Shukla: Psycho sala… needs to be into a rehab... every time trying to prove himself superior… but he’s nothing better than a fucking loser….>B-(    1like
+Kriti Bahl: THURKII ULLU KA PATHA 2like
+Dhan Raj: SAALA “SCUMBAG ASSHOLE”
+Rizwan Khan: abey Kriti!!!! KUCH TO IJJAT DE DIYA KAR ISE
+Dhan Raj: ABEY WO SALA IZZAT KE LAYAK HI NHI HAI...
+
+June 29, 2011
+Nidhi was a dead end. She has, just like how it should be and like any other girl, interest in rich and big boys. I was sitting on her left and she would look here at me if I would be looking in my right. She has to confirm that she is not being watched, pretty much an abnormal mental state. She would look away with attitude on realizing that Ashish Jain is not a dog and she was the attention of nobody. I had reached class at ten and I was buttoning two buttons left in mid away from toilet to class. Prashant sir, Kuldeep sir, and the third sir were at a distance of about 100 meters and Prashant sir was not even looking here. I slid through the closed door and went to sit on the last bench with the lady teacher. After a minute Kuldeep sir and Prashant sir entered the room to call me out. While Prashant sir was telling me for coming there passed a late comer of other course and another late comer came to our class. He made us write an application and then left. Sir didn’t act tough, that was a big relief. The other day I had wished him good morning and he cried ‘you are late, by five minutes’. That was mind boggling.
+I was last night added to CS1E in the name of Mukul Chandra. Dinesh told me of this today in the morning, but still Arun and Dinesh seems to be demanding privacy in the lunch time. I came back home early, the weather was good and though I wanted to stay but I didn’t. I for the first time after a long time spoke to Sonam on her face and that was right before Vibha. Sonam, Vibha and Srishti were sitting behind me. I had asked a doubt, so much expected.
+Ma’am was asking about my null attendance in the lab. Sonam was looking pretty in pink t-shirt. 
+Present above are the comments under the post Dhan Raj had put on the evening of June 5. It feels amazing how can piss and these people’s faces and still come back again to piss over. Relations with Arun came out to be fruitful; Dinesh and Arun actually want me to put a photo of ‘basmati rice’ in the group so that they can tease Manoj in the name of Akash.
+God bless me
+Ashish
+</pre>

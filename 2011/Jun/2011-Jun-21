@@ -1,0 +1,99 @@
+<head>
+    <script crossorigin="anonymous" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/personal-posts-menu.html",
+                success: function (result) {
+                    $("div.customTemporaryCodeHolder").html(result);
+                    $("nav.customDynamicNav").html(
+                        $("div.customTemporaryCodeHolder nav.customBitsWilpMenu").html()
+                    );
+                }
+            });
+
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/follow-us-on-social-media.html",
+
+                success: function (result) {
+                    $("span.customTempCodeHolderForSocialMedia").html(result);
+                    $("div.customSocialMediaBtnsWrapper").html(
+                        $("span.customTempCodeHolderForSocialMedia div.customSocialMediaWrapper").html()
+                    );
+                }
+
+            });
+        });
+    </script>
+    <!-- Google AdSense Using Machine Learning Code -->
+
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-3071098372371409",
+            enable_page_level_ads: true
+        });
+    </script>
+    <style>
+        .customTempCodeHolderForSocialMedia {
+            display: none;
+        }
+
+        pre {
+            white-space: pre-wrap;
+            white-space: -moz-pre-wrap;
+            white-space: -pre-wrap;
+            white-space: -o-pre-wrap;
+            word-wrap: break-word;
+        }
+
+        .customOl {
+            font-size: 15px;
+        }
+
+        .customPre {
+            white-space: pre-wrap;
+        }
+
+        .customLink {
+            background-color: #4CAF50;
+            border: none;
+            color: white !important;
+            padding: 8px 13px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 14px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+
+        .customLink:hover {
+            text-decoration: none;
+        }
+
+        .custom_5px_0px_padding_noMargin {
+            padding: 5px 0px;
+            margin: 0px;
+        }
+
+        i.ig {
+            color: green
+        }
+    </style>
+</head>
+
+<div class="customTemporaryCodeHolder"> </div>
+<span class="customTempCodeHolderForSocialMedia"> </span>
+<nav class="customDynamicNav"> </nav> <br />
+<div class="customSocialMediaBtnsWrapper"> </div> <br />
+<a href="https://survival8.blogspot.com/2021/02/index-of-journals.html" class="customLink">Index of Journals</a>
+<!-- End of 'Personal Posts Menu Template For Copy-Paste'. It started from the top of the page from <HEAD> tag. -->
+
+<pre>June 21, 2011
+I had opened the Reliance mobile phone handset the last day. It was fun, I had to throw it away but I was wondering that if I would throw it away in shape, it will surely catch someone’s attention so I just opened it up using the kitchen knife. Last evening I saw Sneha Bhati after such a long time and she was just so sexy. She has now a healthier and mature body than the skinny one. She was just not one of the usual women, and may be a 9.5 on the scale of ten. Ironically, I was noticing about myself that I have lost interest in girls to a whole lot. I am not a lousy pervert anymore.
+The second day at college was fine. I sat with Dinesh today and it was good. I was able to understand Java so didn’t make anyone feel bad by presence. Sonam is cute as a child. I have not talked to her since the day I broke up with Vibha. She had given me an intentional look even today. It really boosts my confidence when girls look Sakshi Sharma give me look may be for even first and last time, hardly matters for today. Neha talked to me on the water cooler about the Java book I had issued from library. Tanvi is a fucking whore, she made fun of my hair asking if they had leech, or if I had hair band. I didn’t respond to any of calls to fight. At one time in the class, I had called sir to my seat to ask him a doubt and Vibha screamed from behind to call sir to her seat. Sir immediately left me as he had spent enough time on our seat, but that was still wrong to leave me incomplete. I said to myself in abnormally loud voice, “KUT** SALI!” Dinesh and Arun shook by this. 
+I texted Sonam to see if she, too, was angry with me but, unexpectedly, she texted back an excited ‘hi’. It revitalized my energy. We had just started talking and then I found that I had nothing to talk about as she was not angry with me and now there was nothing next. She wrote to me in Hindi a quote using the respectful form of ‘you’ instead of writing on a friendly note using normal language. I had laugh on it and expressed the same in words and next message she sent was ‘talk to you later’ though I had written ‘sorry and I agree with you’ after it. I realized that it wasn’t screwed until now, but now it is screwed. I forwarded her a joke and slept. Her reply another quote “Satisfaction is the highest level of happiness and it is easily attained when you have no expectations from anyone” came around 2130. Though the quote is right but it is not meant for me. I had already gone to bed by now leaving the math book until dawn.
+God bless me
+Ashish</pre>

@@ -1,0 +1,103 @@
+<head>
+    <script crossorigin="anonymous" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/personal-posts-menu.html",
+                success: function (result) {
+                    $("div.customTemporaryCodeHolder").html(result);
+                    $("nav.customDynamicNav").html(
+                        $("div.customTemporaryCodeHolder nav.customBitsWilpMenu").html()
+                    );
+                }
+            });
+
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/follow-us-on-social-media.html",
+
+                success: function (result) {
+                    $("span.customTempCodeHolderForSocialMedia").html(result);
+                    $("div.customSocialMediaBtnsWrapper").html(
+                        $("span.customTempCodeHolderForSocialMedia div.customSocialMediaWrapper").html()
+                    );
+                }
+
+            });
+        });
+    </script>
+    <!-- Google AdSense Using Machine Learning Code -->
+
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-3071098372371409",
+            enable_page_level_ads: true
+        });
+    </script>
+    <style>
+        .customTempCodeHolderForSocialMedia {
+            display: none;
+        }
+
+        pre {
+            white-space: pre-wrap;
+            white-space: -moz-pre-wrap;
+            white-space: -pre-wrap;
+            white-space: -o-pre-wrap;
+            word-wrap: break-word;
+        }
+
+        .customOl {
+            font-size: 15px;
+        }
+
+        .customPre {
+            white-space: pre-wrap;
+        }
+
+        .customLink {
+            background-color: #4CAF50;
+            border: none;
+            color: white !important;
+            padding: 8px 13px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 14px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+
+        .customLink:hover {
+            text-decoration: none;
+        }
+
+        .custom_5px_0px_padding_noMargin {
+            padding: 5px 0px;
+            margin: 0px;
+        }
+
+        i.ig {
+            color: green
+        }
+    </style>
+</head>
+
+<div class="customTemporaryCodeHolder"> </div>
+<span class="customTempCodeHolderForSocialMedia"> </span>
+<nav class="customDynamicNav"> </nav> <br />
+<div class="customSocialMediaBtnsWrapper"> </div> <br />
+<a href="https://survival8.blogspot.com/2021/02/index-of-journals.html" class="customLink">Index of Journals</a>
+<!-- End of 'Personal Posts Menu Template For Copy-Paste'. It started from the top of the page from <HEAD> tag. -->
+
+<pre>
+June 22, 2011
+It was a nice day. I was studying early in the morning from three to six. I had done pushups around 0230 in the morning it left my shoulder muscles tight and paining. The pain hasn’t yet gone completely. I slept around six and woke up only around 0915. I reached class at 1020 after having missing the bath. Sir was looking at us late comers (Hemanshu and I) only until he realized that I am not a bad student. I had lunch with Dinesh and the first row monkeys. I was merely present in the class. I didn’t have a choice but to remain there, I would never want to go back to the old times again. Before that, I had seat with Neha and Tanvi when we were studying in other classroom on projector. Tanvi seems to be seeking my attention these days. It is good in the sense that now most of the others are ignoring me, it is almost whole of A-batch in the sense that I am in the eyes of at least one person from every group. Abhishek Shukla and Akash Rajpoot along with Vibha and Dhanraj have been the main drivers of this situation. 
+It was going to be practical class after the break and I didn’t want to listen to basics again so gave it a miss. At the time when I was on my way out of the block Sonam stopped and asked me where I was going. I wonder it doesn’t have anything to do with Vibha. Nidhi Garg, the cutie pie from IT branch, notices me. I remember I used to notice her in the first semester but I knew somewhere in my heart that time was going to change. It blanks my mind to see that I am being noticed by Sakshi Sharma, ooh, holy goodness. 
+Hemanshu Sharma was asking me what led me to change my look from what it had been in first semester to what it is now in fifth semester. He also referred to my wall post about Gareema ma’am and Tanvi had referred to my profile picture showing Baba Ramdev. They may hate me, or love me, but can’t ignore me.
+I came home and watched MILF; I had got this movie from that kid (Pankaj) with the laptop and friends around him outside the locked Dean’s office. They were watching a funny nude scene from this movie. The movie is awesome.
+Shruti got admitted in DU for Zoology.
+God bless me
+Ashish
+</pre>

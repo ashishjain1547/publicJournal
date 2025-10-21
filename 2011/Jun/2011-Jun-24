@@ -1,0 +1,111 @@
+<head>
+    <script crossorigin="anonymous" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/personal-posts-menu.html",
+                success: function (result) {
+                    $("div.customTemporaryCodeHolder").html(result);
+                    $("nav.customDynamicNav").html(
+                        $("div.customTemporaryCodeHolder nav.customBitsWilpMenu").html()
+                    );
+                }
+            });
+
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/follow-us-on-social-media.html",
+
+                success: function (result) {
+                    $("span.customTempCodeHolderForSocialMedia").html(result);
+                    $("div.customSocialMediaBtnsWrapper").html(
+                        $("span.customTempCodeHolderForSocialMedia div.customSocialMediaWrapper").html()
+                    );
+                }
+
+            });
+        });
+    </script>
+    <!-- Google AdSense Using Machine Learning Code -->
+
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-3071098372371409",
+            enable_page_level_ads: true
+        });
+    </script>
+    <style>
+        .customTempCodeHolderForSocialMedia {
+            display: none;
+        }
+
+        pre {
+            white-space: pre-wrap;
+            white-space: -moz-pre-wrap;
+            white-space: -pre-wrap;
+            white-space: -o-pre-wrap;
+            word-wrap: break-word;
+        }
+
+        .customOl {
+            font-size: 15px;
+        }
+
+        .customPre {
+            white-space: pre-wrap;
+        }
+
+        .customLink {
+            background-color: #4CAF50;
+            border: none;
+            color: white !important;
+            padding: 8px 13px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 14px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+
+        .customLink:hover {
+            text-decoration: none;
+        }
+
+        .custom_5px_0px_padding_noMargin {
+            padding: 5px 0px;
+            margin: 0px;
+        }
+
+        i.ig {
+            color: green
+        }
+    </style>
+</head>
+
+<div class="customTemporaryCodeHolder"> </div>
+<span class="customTempCodeHolderForSocialMedia"> </span>
+<nav class="customDynamicNav"> </nav> <br />
+<div class="customSocialMediaBtnsWrapper"> </div> <br />
+<a href="https://survival8.blogspot.com/2021/02/index-of-journals.html" class="customLink">Index of Journals</a>
+<!-- End of 'Personal Posts Menu Template For Copy-Paste'. It started from the top of the page from <HEAD> tag. -->
+
+<pre>Mon, Jun 6, 2011 at 12:25 AM Abhishek wrote: KUCHH???? BAHAUT BADA WALA!!!! >B-(
+Mon, Jun 6, 2011 at 12:15 AM Kriti wrote: TU KUCH CHUTIYA H KYAA
+Mon, Jun 6, 2011 at 12:02 AM Anubhav wrote: What the hell r u trying to prove man...u have lost Ur senses...and you seriously need a mental checkup.....
+Sun, Jun 5, 2011 at 10:19 PM Anil wrote: Ashish PAGAL SALLA
+Sun, Jun 5, 2011 at 9:25 PM Raj wrote: U r mentally sick.......
+Sun, Jun 5, 2011 at 8:03 PM Akash wrote: bloody BC! U r asshole, a big one!!! Stop all this nonsense or you have from me!! N m not kidding! :@
+Sun, Jun 5, 2011 at 8:02 PM Akash wrote: bloody BC! U r asshole, a big one!!! Stop all this nonsense or you have from me!! N m not kidding! :@ 
+Sun, Jun 5, 2011 at 7:25 PM Abhinav wrote: another tip, don avoid the foreplay, or u can’t enjoy the session ;)
+Sun, Jun 5, 2011 at 7:22 PM Abhinav wrote: life n sex r one and a same thing in life either you’re fucking you're getting fucked..... And that’s how the cookie crumbles ;)
+
+
+June 24, 2011
+These are the comments that were posted in five hours under the wall post I had posted about Vibha. I got the copy of these comments tin Gmail account. I just cleaned my Facebook account and sent requests to Prashant sir, Ankit sir, and Saurabh sir. I added more privacy controls on my notes and make sure that my older post about Gareema ma’am is not on the front page of my recent activities. More pictures of Vibha are now in my PC and the video will now look even better. 
+Last night, I had told Sonam that she looked FAAD (hot/sexy) in the white t-shirt she was wearing yesterday. Today, she was ignoring me, cool, I can’t feel thing being ignored now. Well, when chicks like Tanvi Gautam and Sakshi Sharma are noticing you, you don’t even have to fucking bother about anyone. I came back home in lunch time as I had already learnt the three programs that students were going to do today. Dinesh and Arun didn’t make any contact other than when Dinesh had pointed to the empty seat in the next row when I had asked him to shift right in the morning. Yesterday, I was feeling like I have found friends again when I had got to eat lunch with them but it is just awesome how the life changes faces. Neha also didn’t say ‘hi’ or ‘hello’. It was first time in two years that I ate in between friends. Vibha is realizing that I am gone; it is clear from her face.
+I came back home and logged on to Facebook. Arun and Deepanshu had accepted my friend requests. I cleared all mind boggling conversations from my recent past with Shruti B, Sakshi Sharma, Rakhi, Surbhi and everyone else. 
+I am not feeling like studying so I am giving up this day to relaxation.
+God bless me
+Ashish</pre>

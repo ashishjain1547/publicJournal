@@ -1,0 +1,100 @@
+<head>
+    <script crossorigin="anonymous" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/personal-posts-menu.html",
+                success: function (result) {
+                    $("div.customTemporaryCodeHolder").html(result);
+                    $("nav.customDynamicNav").html(
+                        $("div.customTemporaryCodeHolder nav.customBitsWilpMenu").html()
+                    );
+                }
+            });
+
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.hostname + "/p/follow-us-on-social-media.html",
+
+                success: function (result) {
+                    $("span.customTempCodeHolderForSocialMedia").html(result);
+                    $("div.customSocialMediaBtnsWrapper").html(
+                        $("span.customTempCodeHolderForSocialMedia div.customSocialMediaWrapper").html()
+                    );
+                }
+
+            });
+        });
+    </script>
+    <!-- Google AdSense Using Machine Learning Code -->
+
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-3071098372371409",
+            enable_page_level_ads: true
+        });
+    </script>
+    <style>
+        .customTempCodeHolderForSocialMedia {
+            display: none;
+        }
+
+        pre {
+            white-space: pre-wrap;
+            white-space: -moz-pre-wrap;
+            white-space: -pre-wrap;
+            white-space: -o-pre-wrap;
+            word-wrap: break-word;
+        }
+
+        .customOl {
+            font-size: 15px;
+        }
+
+        .customPre {
+            white-space: pre-wrap;
+        }
+
+        .customLink {
+            background-color: #4CAF50;
+            border: none;
+            color: white !important;
+            padding: 8px 13px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 14px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+
+        .customLink:hover {
+            text-decoration: none;
+        }
+
+        .custom_5px_0px_padding_noMargin {
+            padding: 5px 0px;
+            margin: 0px;
+        }
+
+        i.ig {
+            color: green
+        }
+    </style>
+</head>
+
+<div class="customTemporaryCodeHolder"> </div>
+<span class="customTempCodeHolderForSocialMedia"> </span>
+<nav class="customDynamicNav"> </nav> <br />
+<div class="customSocialMediaBtnsWrapper"> </div> <br />
+<a href="https://survival8.blogspot.com/2021/02/index-of-journals.html" class="customLink">Index of Journals</a>
+<!-- End of 'Personal Posts Menu Template For Copy-Paste'. It started from the top of the page from <HEAD> tag. -->
+
+<pre>June 26, 2011
+I was awake early in the morning but couldn’t sit up to study. It was the third day that I did not bother to open the Math book. 
+I was napping in the noon. I heard from babaji for this, he is always saying something or the other whenever I am there, though he has been keeping his tone polite. 
+I sent non vegan SMS’ to a number of friends of mine, including girls. I had to use my free SMS scheme, there are still 120 left. I was doing that for over two hours and then I was thinking of people I would be texting on the last day and the messages I would be texting. I wanted to study but could not get my mind of unnecessary tensions, lie how to use the left over messages. I had texted Gurarchi as well, Hindi texts this time. She never replied. In the following hours I cleaned my contact list deleting almost every contact, there were close to hundred contacts and there are 45. I have saved those contacts in laptop. I cleaned my inbox, deleting all messages from everyone. Now my phone is clean, my outbox, drafts, and saved. It is feeling much better now, I have decided not to text Sonam for today at least. Of all the recipients, only Sati replied around 1930, a non vegan joke which I immediately deleted.
+I was tense whole day about getting a reply from anyone. I had texted Shukla, Akash and Dhanraj a message that of provoking in a way seeing the differences between me and them. I was wondering of receiving a threatening SMS daring me to get to college tomorrow lie how it had happened on the fifth of June. 
+God bless me
+Ashish</pre>
